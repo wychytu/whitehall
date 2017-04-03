@@ -28,6 +28,13 @@
       <%= content_tag :fieldset, class: ("right-to-left" if form.object.rtl_locale?) do %>
         <%= govspeak_fields.text_area :body, rows: 20, class: "previewable" %>
       <% end %>
+
+      <%=
+        form.check_box(
+          :should_render_pdf,
+          label_text: 'Should we render a PDF for this HTML attachment?'
+        )
+      %>
     <% end %>
   <% elsif attachment.is_a?(ExternalAttachment) %>
     <%= form.text_field :external_url %>

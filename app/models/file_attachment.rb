@@ -8,6 +8,12 @@ class FileAttachment < Attachment
 
   accepts_nested_attributes_for :attachment_data, reject_if: -> attributes { attributes[:file].blank? && attributes[:file_cache].blank? }
 
+  has_one(
+    :source_html_attachment,
+    foreign_key: :pdf_rendered_from_html_attachment_id,
+    class_name: 'Attachment'
+  )
+
   validate :filename_is_unique
 
   def file?

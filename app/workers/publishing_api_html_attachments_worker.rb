@@ -136,6 +136,13 @@ private
         update_type,
         html_attachment.locale || I18n.default_locale.to_s
       )
+
+      # Generate the PDF asynchronous because there is no guarantee the HTML
+      # publication is in the Content Store yet.
+      Rails.logger.info "Triggering GeneratePDFFromHtmlPublicationWorker"
+      GeneratePDFFromHtmlPublicationWorker.perform_async(
+        html_attachment.id
+      )
     end
   end
 end

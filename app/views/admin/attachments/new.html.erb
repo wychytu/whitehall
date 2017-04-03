@@ -4,7 +4,7 @@
   <section class="col-md-8">
     <h1>Add <%= attachment.readable_type %>  attachment to <%= attachment.attachable_model_name %></h1>
 
-    <%= render 'form', attachable: attachable %>
+    <%= render 'form', attachable: attachable, attachment_type: attachment_type %>
   </section>
   <% if attachment.html? %>
     <div class="col-md-4">

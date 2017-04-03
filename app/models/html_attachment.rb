@@ -17,6 +17,14 @@ class HtmlAttachment < Attachment
     Whitehall::RenderingApp::GOVERNMENT_FRONTEND
   end
 
+  # Keep a relationship between the HTML Attachment and the corresponding PDF we
+  # automatically generate.
+  belongs_to(
+    :pdf_rendered_from_html_attachment,
+    foreign_key: :pdf_rendered_from_html_attachment_id,
+    class_name: 'Attachment'
+  )
+
   def manually_numbered_headings?
     govspeak_content.manually_numbered_headings?
   end
