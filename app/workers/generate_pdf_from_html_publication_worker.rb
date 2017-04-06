@@ -1,6 +1,6 @@
 require 'net/http'
 
-class GeneratePDFFromHtmlPublicationWorker
+class GeneratePdfFromHtmlPublicationWorker
   class NotInContentStoreError < StandardError; end
   include Sidekiq::Worker
 

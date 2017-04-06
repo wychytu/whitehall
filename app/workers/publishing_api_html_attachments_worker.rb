@@ -140,7 +140,7 @@ private
       # Generate the PDF asynchronous because there is no guarantee the HTML
       # publication is in the Content Store yet.
       Rails.logger.info "Triggering GeneratePDFFromHtmlPublicationWorker"
-      GeneratePDFFromHtmlPublicationWorker.perform_async(
+      GeneratePdfFromHtmlPublicationWorker.perform_async(
         html_attachment.id
       )
     end
