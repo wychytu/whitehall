@@ -44,8 +44,7 @@ class GeneratePdfFromHtmlPublicationWorker
     raise NotInContentStoreError if html_attachment_content_item.nil?
 
     # TODO: make it work in integration?
-    # url = Plek.find('www') + attachment.url
-    url = "https://www.gov.uk/government/publications/letters-of-direction-since-2004/letters-of-direction"
+    url = Plek.find('www') + html_attachment.url
     # TODO: Check "updated_at" dates to make sure we've fetched the latest version of the HTML?
     open(url).read
   end

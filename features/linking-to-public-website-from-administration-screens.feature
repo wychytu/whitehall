@@ -8,4 +8,5 @@ Background:
 
 Scenario: Viewing a published document
   Given a published publication "A Publication" with a PDF attachment
-  Then I should see a link to the public version of the publication "A Publication"
+  When I view the overview of the publication "A Publication"
+  Then I should see a link to the public version of the publication

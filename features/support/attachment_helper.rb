@@ -45,6 +45,12 @@ module AttachmentHelper
   def page_has_attachment?(attachment)
     page.has_css?('.attachment-details .title', text: attachment.title)
   end
+
+  def stub_attachment_in_content_store(base_path, locale = nil)
+    content_item = {}
+    translated_path = locale ? "#{base_path}.#{locale}" : base_path
+    content_store_has_item(translated_path, content_item)
+  end
 end
 
 World(AttachmentHelper)

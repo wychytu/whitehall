@@ -195,8 +195,19 @@ Given /^"([^"]*)" submits the publication "([^"]*)"$/ do |user_name, title|
   end
 end
 
-Then /^I should see a link to the public version of the publication "([^"]*)"$/ do |publication_title|
-  publication = Publication.published.find_by!(title: publication_title)
-  visit admin_edition_path(publication)
+Then(/^I should see a link to the public version of the publication$/) do
   assert_match public_document_path(publication), find("a.public_version")[:href]
+end
+
+When(/^I view the overview of the publication "(.*?)"$/) do |publication_title|
+  publication = Publication.find_by(title: publication_title)
+  visit admin_edition_path(publication)
+end
+
+When(/^I save and publish the publication "(.*?)"$/) do |publication_title|
+  publication = Publication.find_by title: publication_title
+  ensure_path edit_admin_edition_path(publication)
+  fill_in_change_note_if_required
+  click_button "Save"
+  publish force: true
 end
