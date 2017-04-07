@@ -4,6 +4,8 @@ class GeneratePdfFromHtmlPublicationWorker
   class NotInContentStoreError < StandardError; end
   include Sidekiq::Worker
 
+  sidekiq_options queue: 'generate_pdf_from_html_publication'
+
   # Possible race conditions if multiple publishers edit and save the same HTML
   # publication. We have no guarantee around which job will run first.
   def perform(attachment_id)
