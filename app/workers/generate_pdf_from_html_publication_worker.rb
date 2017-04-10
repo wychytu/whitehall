@@ -1,5 +1,3 @@
-require 'net/http'
-
 class GeneratePdfFromHtmlPublicationWorker
 # Given an HTML Attachment ID, this worker will:
 # 1. Fetch the fully-rendered HTML Attachment (complete with CSS) from government-frontend via HTTP
@@ -43,10 +41,8 @@ class GeneratePdfFromHtmlPublicationWorker
     Rails.logger.warn "Fetched from content store #{html_attachment.url}: #{html_attachment_content_item.inspect}"
     raise NotInContentStoreError if html_attachment_content_item.nil?
 
-    # TODO: make it work in integration?
-    url = Plek.find('www') + html_attachment.url
     # TODO: Check "updated_at" dates to make sure we've fetched the latest version of the HTML?
-    open(url).read
+    HtmlPublicationDownloader.download(html_attachment.url)
   end
 
   def pdf_filename_for(html_attachment)
