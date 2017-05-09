@@ -105,3 +105,19 @@ When(/^I filter the announcements list by "(.*?)"$/) do |announcement_type|
   select announcement_type, from: "Announcement type"
   click_on "Refresh results"
 end
+
+When(/^I draft a valid "(.*?)" news article with title "(.*?)" associated to "(.*?)"$/) do |announcement_type, title, worldwide_org|
+  begin_drafting_news_article(title: title, announcement_type: announcement_type)
+  # select topic_name, from: "Policy Areas"
+
+  click_button "Save"
+end
+
+Then(/^the worldwide organisation "(.*?)" should be associated to the news article "(.*?)"$/) do |world_org_name, title|
+  # Cant do this any other way as the UI does not allow for easy checking of associations
+  # Could instead reedit the draft and check the current organisation
+  # Could also check the publishing api presenter
+
+  news_article = NewsArticle.find_by(title: title)
+  assert news_article.world_organisation.name == world_org_name
+end
