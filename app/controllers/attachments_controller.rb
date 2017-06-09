@@ -4,6 +4,7 @@ class AttachmentsController < PublicUploadsController
   before_action :reject_non_previewable_attachments, only: :preview
 
   def preview
+      raise
     if attachment_visible? && attachment_visibility.visible_edition
       expires_headers
       @edition = attachment_visibility.visible_edition
