@@ -13,10 +13,8 @@ class UploadedHtmlDocumentsReporter
   end
 
   def calculate
-    
+    HtmlAttachment.where(["created_at between ? and ? ", @start_date, @end_date]).count
   end
-
-
 
   def get_monthly_html_docs_uploaded
     puts "hello"
