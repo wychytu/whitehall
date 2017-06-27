@@ -6,7 +6,6 @@
       <th width="10%">Type</th>
       <th width="60%">Location</th>
       <th width="10%">Status</th>
-      <th width="30%">Translations</th>
     </tr>
   </thead>
 
@@ -29,16 +28,6 @@
         </td>
 
         <td class="status"><%= world_location.active? ? "active" : "inactive" %></td>
-
-        <td class="translations">
-          <% if world_location.non_english_translated_locales.any? %>
-            <%= world_location.non_english_translated_locales.map do |locale|
-              link_to "#{locale.english_language_name} (#{locale.native_language_name})", edit_admin_world_location_translation_path(world_location, locale.code)
-            end.to_sentence.html_safe %>
-          <% else %>
-            none
-          <% end %>
-        </td>
 
       <% end %>
     <% end %>
