@@ -1,30 +1,51 @@
 require 'date'
 
 class UploadedHtmlDocumentsReporter
-  attr_reader :start_date, :end_date
+  attr_reader :start_date, :end_date, :frequency
 
-  def initialize(start_date:, end_date:)
-    @start_date = Date.parse(start_date).beginning_of_day
-    @end_date = Date.parse(end_date).end_of_day
+  def initialize(start_date:, end_date:, frequency:)
+    @start_date = Date.parse(start_date)
+    @end_date = Date.parse(end_date)
+    @frequency = frequency
 
     if @end_date < @start_date
       raise ("End date can not be earlier than start date!")
     end
+
+    if @frequency != "daily" && @frequency != "weekly" && @frequency != "monthly"
+      raise("Frequency options are: 'daily', 'weekly' or 'monthly'")
+    end
   end
 
   def calculate
-    HtmlAttachment.where(["created_at between ? and ? ", @start_date, @end_date]).count
-  end
-
-  def get_monthly_html_docs_uploaded
-    puts "hello"
+    @results = []
     date = @start_date
 
-    until date <= @end_date do
-      @results.push(HtmlAttachment.where(["created_at between ? and ? ", date, date.prev_month]).count)
-      date = date.prev_month
+    until date > @end_date
+      case @frequency
+      when "daily"
+        freq_date_end = date
+      when "weekly"
+        freq_date_end = date.next_week
+      when "monthly"
+        freq_date_end = date.next_month
+      end
+
+      freq_date_end = @end_date if freq_date_end > @end_date
+
+      data = {start: date, end: freq_date_end}
+      total  = 0
+      until date > freq_date_end do
+        total = total + HtmlAttachment.where(["created_at between ? and ? ", date, date.next_day]).count
+        date = date.next_day
+      end
+
+      data[:total] = total
+      @results.push(data)
+
+      date = (freq_date_end).next_day
     end
-   puts @results
+    @results
   end
 
   def average(result)
@@ -32,14 +53,11 @@ class UploadedHtmlDocumentsReporter
   end
 
   def print_results
-    count = 0
-    @start_date.downto(@end_date) { |i|
-      puts "#{i} months ago -  #{@results[count]} HTML documents were created"
-      count +=1
-    }
-    puts "======================================================"
-    puts "Average HTML documents uploaded (per month): #{average(@results)}"
+    @results.each do |result|
+      puts "From #{result[:start]} to #{result[:end]} the number of HTML documents uploaded were #{result[:total]}"
+    end
+
+    totals = @results.collect { |result| result[:total]}.flatten
+    puts "Average HTML documents uploaded (#{@frequency}): #{average(totals)}"
   end
 end
-
-#raise error is end date is before start date
