@@ -4,7 +4,7 @@ module Whitehall::DocumentFilter
   class Rummager < Filterer
     def announcements_search
       filter_args = standard_filter_args.merge(filter_by_announcement_type)
-      @results = Whitehall.government_search_client.advanced_search(filter_args)
+      @results = Whitehall.search_client.search(filter_args)
     end
 
     def publications_search
@@ -15,8 +15,8 @@ module Whitehall::DocumentFilter
 
     def default_filter_args
       @default = {
-        page: @page.to_s,
-        per_page: @per_page.to_s
+        start: ((@page - 1) * @per_page).to_s,
+        count: @per_page.to_s
       }
     end
 
@@ -28,12 +28,13 @@ module Whitehall::DocumentFilter
         .merge(filter_by_organisations)
         .merge(filter_by_locations)
         .merge(filter_by_date)
+        .merge(include_fields)
         .merge(sort)
     end
 
     def filter_by_keywords
       if @keywords.present?
-        {keywords: @keywords.to_s}
+        {q: @keywords.to_s}
       else
         {}
       end
@@ -41,7 +42,7 @@ module Whitehall::DocumentFilter
 
     def filter_by_people
       if @people_ids.present? && @people_ids != ["all"]
-        {people: @people.map(&:slug)}
+        {filter_people: @people.map(&:slug)}
       else
         {}
       end
@@ -51,7 +52,7 @@ module Whitehall::DocumentFilter
     # use `policy_areas` as the filter key here.
     def filter_by_topics
       if selected_topics.any?
-        { policy_areas: selected_topics.map(&:slug) }
+        { filter_policy_areas: selected_topics.map(&:slug) }
       else
         {}
       end
@@ -59,7 +60,7 @@ module Whitehall::DocumentFilter
 
     def filter_by_organisations
       if selected_organisations.any?
-        {organisations: selected_organisations.map(&:slug)}
+        {filter_organisations: selected_organisations.map(&:slug)}
       else
         {}
       end
@@ -67,12 +68,13 @@ module Whitehall::DocumentFilter
 
     def filter_by_locations
       if selected_locations.any?
-        {world_locations: selected_locations.map(&:slug)}
+        {filter_world_locations: selected_locations.map(&:slug)}
       else
         {}
       end
     end
 
+    # FIXME: Update this one to match others
     def filter_by_official_document_status
       case selected_official_document_status
       when "command_and_act_papers"
@@ -94,13 +96,13 @@ module Whitehall::DocumentFilter
       if dates_hash.empty?
         {}
       else
-        {public_timestamp: dates_hash}
+      { filter_public_timestamp: dates_hash}
       end
     end
 
     def sort
       if @keywords.blank?
-        {order: { public_timestamp: "desc" } }
+        { order: "-public_timestamp" }
       else
         {}
       end
@@ -115,9 +117,10 @@ module Whitehall::DocumentFilter
         else
           non_world_announcement_types
         end
-      {search_format_types: announcement_types}
+      { filter_search_format_types: announcement_types }
     end
 
+    # FIXME: Update
     def filter_by_publication_type
       publication_types =
         if selected_publication_filter_option
@@ -145,6 +148,21 @@ module Whitehall::DocumentFilter
       types = all_announcement_types
       types = types - NewsArticleType::WorldNewsStory.search_format_types
       types - [WorldLocationNewsArticle.search_format_type]
+    end
+
+    def include_fields
+      {
+        fields: [
+          "display_type",
+          "id",
+          "format",
+          "government_name",
+          "is_historic",
+          "organisations",
+          "public_timestamp",
+          "title",
+        ]
+      }
     end
   end
 end

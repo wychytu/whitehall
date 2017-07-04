@@ -34,7 +34,8 @@ module Whitehall::DocumentFilter
     end
 
     def organisations
-      @doc.fetch('organisations', []).map { |slug| fetch_from_cache(:organisation, slug) }.compact
+      # FIXME: Do other filters need to be mapped in the same way?
+      @doc.fetch('organisations', []).map { |organisation| fetch_from_cache(:organisation, organisation["slug"]) }.compact
     end
 
     def topics
