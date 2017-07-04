@@ -38,6 +38,7 @@ module Whitehall::DocumentFilter
         .merge(new_filter_by_organisations)
         .merge(new_filter_by_locations)
         .merge(new_filter_by_date)
+        .merge(include_fields)
         .merge(new_sort)
     end
 
@@ -240,6 +241,16 @@ module Whitehall::DocumentFilter
       types = all_announcement_types
       types = types - NewsArticleType::WorldNewsStory.search_format_types
       types - [WorldLocationNewsArticle.search_format_type]
+    end
+
+    def include_fields
+      {
+        fields: [
+          "id",
+          "format",
+          "public_timestamp",
+        ]
+      }
     end
   end
 end
