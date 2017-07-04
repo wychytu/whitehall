@@ -5,9 +5,7 @@ module Whitehall::DocumentFilter
     # FIXME: Delete 'new' from names
     def announcements_search
       filter_args = standard_filter_args.merge(filter_by_announcement_type)
-      new_filter_args = new_standard_filter_args.merge(new_filter_by_announcement_type)
-      # require 'pry'; binding.pry
-      @results = Whitehall.search_client.search(new_filter_args)
+      @results = Whitehall.search_client.search(filter_args)
     end
 
     def publications_search
@@ -18,28 +16,9 @@ module Whitehall::DocumentFilter
 
     def default_filter_args
       @default = {
-        page: @page.to_s,
-        per_page: @per_page.to_s
-      }
-    end
-
-    def new_default_filter_args
-      @default = {
         start: ((@page - 1) * @per_page).to_s,
         count: @per_page.to_s
       }
-    end
-
-    def new_standard_filter_args
-      new_default_filter_args
-        .merge(new_filter_by_keywords)
-        .merge(new_filter_by_people)
-        .merge(new_filter_by_topics)
-        .merge(new_filter_by_organisations)
-        .merge(new_filter_by_locations)
-        .merge(new_filter_by_date)
-        .merge(include_fields)
-        .merge(new_sort)
     end
 
     def standard_filter_args
@@ -50,18 +29,11 @@ module Whitehall::DocumentFilter
         .merge(filter_by_organisations)
         .merge(filter_by_locations)
         .merge(filter_by_date)
+        .merge(include_fields)
         .merge(sort)
     end
 
     def filter_by_keywords
-      if @keywords.present?
-        {keywords: @keywords.to_s}
-      else
-        {}
-      end
-    end
-
-    def new_filter_by_keywords
       if @keywords.present?
         {q: @keywords.to_s}
       else
@@ -70,14 +42,6 @@ module Whitehall::DocumentFilter
     end
 
     def filter_by_people
-      if @people_ids.present? && @people_ids != ["all"]
-        {people: @people.map(&:slug)}
-      else
-        {}
-      end
-    end
-
-    def new_filter_by_people
       if @people_ids.present? && @people_ids != ["all"]
         {filter_people: @people.map(&:slug)}
       else
@@ -89,16 +53,6 @@ module Whitehall::DocumentFilter
     # use `policy_areas` as the filter key here.
     def filter_by_topics
       if selected_topics.any?
-        { policy_areas: selected_topics.map(&:slug) }
-      else
-        {}
-      end
-    end
-
-    # Note that "Topics" are called "Policy Areas" in Rummager. That's why we
-    # use `policy_areas` as the filter key here.
-    def new_filter_by_topics
-      if selected_topics.any?
         { filter_policy_areas: selected_topics.map(&:slug) }
       else
         {}
@@ -106,14 +60,6 @@ module Whitehall::DocumentFilter
     end
 
     def filter_by_organisations
-      if selected_organisations.any?
-        {organisations: selected_organisations.map(&:slug)}
-      else
-        {}
-      end
-    end
-
-    def new_filter_by_organisations
       if selected_organisations.any?
         {filter_organisations: selected_organisations.map(&:slug)}
       else
@@ -123,20 +69,13 @@ module Whitehall::DocumentFilter
 
     def filter_by_locations
       if selected_locations.any?
-        {world_locations: selected_locations.map(&:slug)}
-      else
-        {}
-      end
-    end
-
-    def new_filter_by_locations
-      if selected_locations.any?
         {filter_world_locations: selected_locations.map(&:slug)}
       else
         {}
       end
     end
 
+    # FIXME: Update this one to match others
     def filter_by_official_document_status
       case selected_official_document_status
       when "command_and_act_papers"
@@ -158,31 +97,11 @@ module Whitehall::DocumentFilter
       if dates_hash.empty?
         {}
       else
-        {public_timestamp: dates_hash}
-      end
-    end
-
-    def new_filter_by_date
-      dates_hash = {}
-      dates_hash.merge!(from: @from_date.to_s) if @from_date.present?
-      dates_hash.merge!(to: @to_date.to_s) if @to_date.present?
-
-      if dates_hash.empty?
-        {}
-      else
       { filter_public_timestamp: dates_hash}
       end
     end
 
     def sort
-      if @keywords.blank?
-        {order: { public_timestamp: "desc" } }
-      else
-        {}
-      end
-    end
-
-    def new_sort
       if @keywords.blank?
         { order: "-public_timestamp" }
       else
@@ -199,21 +118,10 @@ module Whitehall::DocumentFilter
         else
           non_world_announcement_types
         end
-      {search_format_types: announcement_types}
-    end
-
-    def new_filter_by_announcement_type
-      announcement_types =
-        if selected_announcement_filter_option
-          selected_announcement_filter_option.search_format_types
-        elsif include_world_location_news
-          [Announcement.search_format_type]
-        else
-          non_world_announcement_types
-        end
       { filter_search_format_types: announcement_types }
     end
 
+    # FIXME: Update
     def filter_by_publication_type
       publication_types =
         if selected_publication_filter_option
