@@ -10,7 +10,7 @@ module Whitehall::DocumentFilter
     def publications_search
       filter_args = standard_filter_args.merge(filter_by_publication_type)
                                         .merge(filter_by_official_document_status)
-      @results = Whitehall.government_search_client.advanced_search(filter_args)
+      @results = Whitehall.search_client.search(filter_args)
     end
 
     def default_filter_args
@@ -120,7 +120,6 @@ module Whitehall::DocumentFilter
       { filter_search_format_types: announcement_types }
     end
 
-    # FIXME: Update
     def filter_by_publication_type
       publication_types =
         if selected_publication_filter_option
@@ -128,7 +127,7 @@ module Whitehall::DocumentFilter
         else
           Publicationesque.concrete_descendant_search_format_types
         end
-      {search_format_types: publication_types}
+      { filter_search_format_types: publication_types }
     end
 
     def documents
