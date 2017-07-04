@@ -246,10 +246,14 @@ module Whitehall::DocumentFilter
     def include_fields
       {
         fields: [
+          "display_type",
           "id",
-          "title",
-          "public_timestamp",
           "format",
+          "government_name",
+          "is_historic",
+          "organisations",
+          "public_timestamp",
+          "title",
         ]
       }
     end
