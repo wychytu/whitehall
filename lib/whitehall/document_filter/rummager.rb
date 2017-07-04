@@ -2,7 +2,6 @@ require 'whitehall/document_filter/filterer'
 
 module Whitehall::DocumentFilter
   class Rummager < Filterer
-    # FIXME: Delete 'new' from names
     def announcements_search
       filter_args = standard_filter_args.merge(filter_by_announcement_type)
       @results = Whitehall.search_client.search(filter_args)
