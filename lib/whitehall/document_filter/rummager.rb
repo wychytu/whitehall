@@ -78,11 +78,11 @@ module Whitehall::DocumentFilter
     def filter_by_official_document_status
       case selected_official_document_status
       when "command_and_act_papers"
-        {has_official_document: "1"}
+        { has_official_document: true }
       when "command_papers_only"
-        {has_command_paper: "1"}
+        { has_command_paper: true }
       when "act_papers_only"
-        {has_act_paper: "1"}
+        { has_act_paper: true }
       else
         {}
       end
