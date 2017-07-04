@@ -247,8 +247,9 @@ module Whitehall::DocumentFilter
       {
         fields: [
           "id",
-          "format",
+          "title",
           "public_timestamp",
+          "format",
         ]
       }
     end
