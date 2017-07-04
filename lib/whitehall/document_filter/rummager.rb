@@ -2,9 +2,12 @@ require 'whitehall/document_filter/filterer'
 
 module Whitehall::DocumentFilter
   class Rummager < Filterer
+    # FIXME: Delete 'new' from names
     def announcements_search
       filter_args = standard_filter_args.merge(filter_by_announcement_type)
-      @results = Whitehall.government_search_client.advanced_search(filter_args)
+      new_filter_args = new_standard_filter_args.merge(new_filter_by_announcement_type)
+      # require 'pry'; binding.pry
+      @results = Whitehall.search_client.search(new_filter_args)
     end
 
     def publications_search
@@ -18,6 +21,24 @@ module Whitehall::DocumentFilter
         page: @page.to_s,
         per_page: @per_page.to_s
       }
+    end
+
+    def new_default_filter_args
+      @default = {
+        start: ((@page - 1) * @per_page).to_s,
+        count: @per_page.to_s
+      }
+    end
+
+    def new_standard_filter_args
+      new_default_filter_args
+        .merge(new_filter_by_keywords)
+        .merge(new_filter_by_people)
+        .merge(new_filter_by_topics)
+        .merge(new_filter_by_organisations)
+        .merge(new_filter_by_locations)
+        .merge(new_filter_by_date)
+        .merge(new_sort)
     end
 
     def standard_filter_args
@@ -39,9 +60,25 @@ module Whitehall::DocumentFilter
       end
     end
 
+    def new_filter_by_keywords
+      if @keywords.present?
+        {q: @keywords.to_s}
+      else
+        {}
+      end
+    end
+
     def filter_by_people
       if @people_ids.present? && @people_ids != ["all"]
         {people: @people.map(&:slug)}
+      else
+        {}
+      end
+    end
+
+    def new_filter_by_people
+      if @people_ids.present? && @people_ids != ["all"]
+        {filter_people: @people.map(&:slug)}
       else
         {}
       end
@@ -57,6 +94,16 @@ module Whitehall::DocumentFilter
       end
     end
 
+    # Note that "Topics" are called "Policy Areas" in Rummager. That's why we
+    # use `policy_areas` as the filter key here.
+    def new_filter_by_topics
+      if selected_topics.any?
+        { filter_policy_areas: selected_topics.map(&:slug) }
+      else
+        {}
+      end
+    end
+
     def filter_by_organisations
       if selected_organisations.any?
         {organisations: selected_organisations.map(&:slug)}
@@ -65,9 +112,25 @@ module Whitehall::DocumentFilter
       end
     end
 
+    def new_filter_by_organisations
+      if selected_organisations.any?
+        {filter_organisations: selected_organisations.map(&:slug)}
+      else
+        {}
+      end
+    end
+
     def filter_by_locations
       if selected_locations.any?
         {world_locations: selected_locations.map(&:slug)}
+      else
+        {}
+      end
+    end
+
+    def new_filter_by_locations
+      if selected_locations.any?
+        {filter_world_locations: selected_locations.map(&:slug)}
       else
         {}
       end
@@ -98,9 +161,29 @@ module Whitehall::DocumentFilter
       end
     end
 
+    def new_filter_by_date
+      dates_hash = {}
+      dates_hash.merge!(from: @from_date.to_s) if @from_date.present?
+      dates_hash.merge!(to: @to_date.to_s) if @to_date.present?
+
+      if dates_hash.empty?
+        {}
+      else
+      { filter_public_timestamp: dates_hash}
+      end
+    end
+
     def sort
       if @keywords.blank?
         {order: { public_timestamp: "desc" } }
+      else
+        {}
+      end
+    end
+
+    def new_sort
+      if @keywords.blank?
+        { order: "-public_timestamp" }
       else
         {}
       end
@@ -116,6 +199,18 @@ module Whitehall::DocumentFilter
           non_world_announcement_types
         end
       {search_format_types: announcement_types}
+    end
+
+    def new_filter_by_announcement_type
+      announcement_types =
+        if selected_announcement_filter_option
+          selected_announcement_filter_option.search_format_types
+        elsif include_world_location_news
+          [Announcement.search_format_type]
+        else
+          non_world_announcement_types
+        end
+      { filter_search_format_types: announcement_types }
     end
 
     def filter_by_publication_type
