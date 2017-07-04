@@ -12,8 +12,8 @@ module Whitehall::DocumentFilter
     end
 
     def expect_search_by_format_types(format_types)
-      Whitehall.search_client.expects(:search).with(
-          has_entry({ filter_search_format_types: format_types }))
+      Whitehall.search_client.expects(:search)
+        .with(has_entry(filter_search_format_types: format_types))
     end
 
     test 'announcements_search looks for all announcements exluding world types by default' do
