@@ -34,7 +34,7 @@ module Whitehall::DocumentFilter
 
     def filter_by_keywords
       if @keywords.present?
-        {q: @keywords.to_s}
+        { q: @keywords.to_s }
       else
         {}
       end
@@ -42,7 +42,7 @@ module Whitehall::DocumentFilter
 
     def filter_by_people
       if @people_ids.present? && @people_ids != ["all"]
-        {filter_people: @people.map(&:slug)}
+        { filter_people: @people.map(&:slug) }
       else
         {}
       end
@@ -60,7 +60,7 @@ module Whitehall::DocumentFilter
 
     def filter_by_organisations
       if selected_organisations.any?
-        {filter_organisations: selected_organisations.map(&:slug)}
+        { filter_organisations: selected_organisations.map(&:slug) }
       else
         {}
       end
@@ -68,7 +68,7 @@ module Whitehall::DocumentFilter
 
     def filter_by_locations
       if selected_locations.any?
-        {filter_world_locations: selected_locations.map(&:slug)}
+        { filter_world_locations: selected_locations.map(&:slug) }
       else
         {}
       end
@@ -96,7 +96,7 @@ module Whitehall::DocumentFilter
       if dates_hash.empty?
         {}
       else
-      { filter_public_timestamp: dates_hash}
+        { filter_public_timestamp: dates_hash }
       end
     end
 
@@ -151,16 +151,16 @@ module Whitehall::DocumentFilter
 
     def include_fields
       {
-        fields: [
-          "display_type",
-          "id",
-          "format",
-          "government_name",
-          "is_historic",
-          "organisations",
-          "public_timestamp",
-          "title",
-        ]
+        fields: %w(
+          display_type
+          id
+          format
+          government_name
+          is_historic
+          organisations
+          public_timestamp
+          title
+        )
       }
     end
   end

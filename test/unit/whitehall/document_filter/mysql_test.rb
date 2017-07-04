@@ -211,7 +211,7 @@ module Whitehall::DocumentFilter
       document_scope.expects(:page).with(3).returns(document_scope)
       document_scope.expects(:per).with(20).returns(document_scope)
       with_number_of_documents_per_page(20) do
-        create_filter(document_scope, page: 3)
+        create_filter(document_scope, page: "3")
       end
     end
 
@@ -226,7 +226,7 @@ module Whitehall::DocumentFilter
       filter = create_filter(document_scope,
         departments: [organisation.slug],
         topics: [topic.slug],
-        page: 2)
+        page: "2")
 
       assert_equal [organisation], filter.selected_organisations
       assert_equal [topic], filter.selected_topics
@@ -238,7 +238,7 @@ module Whitehall::DocumentFilter
       news_article = create(:published_news_article, topics: [topic], organisations: [organisation])
 
       document_scope = Announcement.published.includes(:document, :organisations)
-      filter = create_filter(document_scope, departments: [organisation.slug], topics: [topic.slug], page: 1)
+      filter = create_filter(document_scope, departments: [organisation.slug], topics: [topic.slug], page: "1")
 
       assert_equal news_article.document_id, filter.documents.first.document.id
     end
