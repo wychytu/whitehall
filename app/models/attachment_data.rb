@@ -5,7 +5,7 @@ class AttachmentData < ApplicationRecord
 
   has_many :attachments, inverse_of: :attachment_data
 
-  delegate :url, :path, to: :file, allow_nil: true
+  delegate :path, to: :file, allow_nil: true
 
   before_save :update_file_attributes
 
@@ -16,8 +16,28 @@ class AttachmentData < ApplicationRecord
   belongs_to :replaced_by, class_name: 'AttachmentData'
   validate :cant_be_replaced_by_self
   after_save :handle_to_replace_id
+  before_create :create_asset
+  before_update :update_asset
 
   OPENDOCUMENT_EXTENSIONS = %w(ODT ODP ODS).freeze
+
+  def create_asset
+    response = Services.asset_manager.create_asset(file: file.file.to_file)
+    self.asset_id = response['id'].split('/').last
+  end
+
+  def update_asset
+    Services.asset_manager.update_asset(asset_id, file: file.file.to_file)
+  end
+
+  def url(options = {})
+    if asset_id.present?
+      response = Services.asset_manager.asset(asset_id)
+      response['file_url']
+    else
+      file.url(options)
+    end
+  end
 
   def filename
     url && File.basename(url)

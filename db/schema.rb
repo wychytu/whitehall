@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20170411161614) do
+ActiveRecord::Schema.define(version: 20170712101152) do
 
   create_table "about_pages", force: :cascade do |t|
     t.integer  "topical_event_id",    limit: 4
@@ -42,6 +42,7 @@ ActiveRecord::Schema.define(version: 20170411161614) do
     t.datetime "created_at"
     t.datetime "updated_at"
     t.integer  "replaced_by_id",   limit: 4
+    t.string   "asset_id",         limit: 255
   end
 
   add_index "attachment_data", ["replaced_by_id"], name: "index_attachment_data_on_replaced_by_id", using: :btree
@@ -84,7 +85,6 @@ ActiveRecord::Schema.define(version: 20170411161614) do
   add_index "attachments", ["attachable_id", "attachable_type"], name: "index_attachments_on_attachable_id_and_attachable_type", using: :btree
   add_index "attachments", ["attachable_type", "attachable_id", "ordering"], name: "no_duplicate_attachment_orderings", unique: true, using: :btree
   add_index "attachments", ["attachment_data_id"], name: "index_attachments_on_attachment_data_id", using: :btree
-  add_index "attachments", ["content_id"], name: "index_attachments_on_content_id", using: :btree
   add_index "attachments", ["ordering"], name: "index_attachments_on_ordering", using: :btree
 
   create_table "classification_featuring_image_data", force: :cascade do |t|
@@ -1272,8 +1272,8 @@ ActiveRecord::Schema.define(version: 20170411161614) do
   add_index "worldwide_organisations", ["slug"], name: "index_worldwide_organisations_on_slug", unique: true, using: :btree
 
   create_table "worldwide_services", force: :cascade do |t|
-    t.string   "name",            limit: 255, null: false
-    t.integer  "service_type_id", limit: 4,   null: false
+    t.string   "name",            limit: 255, default: "", null: false
+    t.integer  "service_type_id", limit: 4,                null: false
     t.datetime "created_at"
     t.datetime "updated_at"
   end
