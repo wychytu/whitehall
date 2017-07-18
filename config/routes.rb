@@ -36,8 +36,8 @@ Whitehall::Application.routes.draw do
   # World locations and Worldwide organisations
   get '/world/organisations/:organisation_id/office' => redirect('/world/organisations/%{organisation_id}', prefix: '')
   get '/world/organisations/:organisation_id/about' => redirect('/world/organisations/%{organisation_id}', prefix: '')
-  resources :worldwide_organisations, path: 'world/organisations', only: [:show], localised: true do
-    resources :corporate_information_pages, only: [:show], path: 'about', localised: true
+  resources :worldwide_organisations, path: 'world/organisations', only: [:show] do
+    resources :corporate_information_pages, only: [:show], path: 'about'
     # Dummy path for the sake of polymorphic_path: will always be directed above.
     get :about
     resources :worldwide_offices, path: 'office', only: [:show]
@@ -45,7 +45,7 @@ Whitehall::Application.routes.draw do
 
   resources :embassies, path: 'world/embassies', only: [:index]
 
-  resources :world_locations, path: 'world', only: [:index, :show], localised: true do
+  resources :world_locations, path: 'world', only: [:index, :show] do
     resources :world_location_news, path: 'news', only: [:index]
   end
 
@@ -86,20 +86,20 @@ Whitehall::Application.routes.draw do
     get '/feed' => 'home#feed', defaults: { format: :atom }, constraints: { format: :atom }, as: :atom_feed
     get '/tour' => redirect("/tour", prefix: "")
 
-    resources :announcements, only: [:index], path: 'announcements', localised: true
-    resources :news_articles, path: 'news', only: [:show], localised: true
+    resources :announcements, only: [:index], path: 'announcements'
+    resources :news_articles, path: 'news', only: [:show]
     resources :fatality_notices, path: 'fatalities', only: [:show]
     get "/news" => redirect("/announcements"), as: 'news_articles'
     get "/fatalities" => redirect("/announcements"), as: 'fatality_notices'
 
     get "/latest" => 'latest#index', as: 'latest'
 
-    resources :publications, only: [:index, :show], localised: true
+    resources :publications, only: [:index, :show]
     get "/publications/:publication_id/:id" => 'html_attachments#show', as: 'publication_html_attachment'
 
     # TODO: Remove when paths can be generated without a routes entry
-    resources :case_studies, path: 'case-studies', only: [:show], localised: true
-    resources :speeches, only: [:show], localised: true
+    resources :case_studies, path: 'case-studies', only: [:show]
+    resources :speeches, only: [:show]
     resources :statistical_data_sets, path: 'statistical-data-sets', only: [:show]
 
     get "/speeches" => redirect("/announcements")
@@ -109,8 +109,8 @@ Whitehall::Application.routes.draw do
     # helper methods.
     # TODO: Remove `:show` when stats announcement paths can be otherwise generated
     resources :statistics_announcements, path: 'statistics/announcements', only: [:index, :show]
-    resources :statistics, only: [:index, :show], localised: true
-    resources :world_location_news_articles, path: 'world-location-news', only: [:index, :show], localised: true
+    resources :statistics, only: [:index, :show]
+    resources :world_location_news_articles, path: 'world-location-news', only: [:index, :show]
 
     resources :consultations, only: [:index, :show] do
       collection do
@@ -133,8 +133,8 @@ Whitehall::Application.routes.draw do
     # TODO: Remove when paths can be generated without a routes entry
     resources :document_collections, only: [:show], path: 'collections'
     get '/collections' => redirect("/publications")
-    resources :organisations, only: [:index], localised: false
-    resources :organisations, only: [:show], localised: true do
+    resources :organisations, only: [:index]
+    resources :organisations, only: [:show] do
       get '/series/:slug' => redirect("/collections/%{slug}")
       get '/series' => redirect("/publications")
 
@@ -142,15 +142,15 @@ Whitehall::Application.routes.draw do
         get :consultations
         get :chiefs_of_staff, path: 'chiefs-of-staff'
       end
-      resources :corporate_information_pages, only: [:show, :index], path: 'about', localised: true
+      resources :corporate_information_pages, only: [:show, :index], path: 'about'
       resources :groups, only: [:show]
     end
     get "/organisations/:organisation_id/groups" => redirect("/organisations/%{organisation_id}")
     get "/organisations/:organisation_slug/email-signup" => 'email_signup_information#show',
       as: :organisation_email_signup_information
 
-    resources :ministerial_roles, path: 'ministers', only: [:index, :show], localised: true
-    resources :people, only: :show, localised: true
+    resources :ministerial_roles, path: 'ministers', only: [:index, :show]
+    resources :people, only: :show
 
     # TODO: Remove `:show` when policy group paths can be otherwise generated
     resources :policy_groups, path: 'groups', only: [:show]
@@ -206,7 +206,7 @@ Whitehall::Application.routes.draw do
             resources :promotional_feature_items, as: :items, path: 'items', except: [:index]
           end
           member do
-            get :features, localised: true
+            get :features
             get :people
           end
           resources :financial_reports, except: [:show]
@@ -351,7 +351,7 @@ Whitehall::Application.routes.draw do
         end
         resources :world_locations, only: [:index, :edit, :update, :show] do
           member do
-            get :features, localised: true
+            get :features
           end
           resources :translations, controller: 'world_location_translations'
           resources :offsite_links
@@ -394,14 +394,14 @@ Whitehall::Application.routes.draw do
     get '/placeholder' => 'placeholder#show', as: :placeholder
   end
 
-  resources :organisations, only: [:index, :show], path: 'courts-tribunals', localised: true,
+  resources :organisations, only: [:index, :show], path: 'courts-tribunals',
     as: :courts, courts_only: true
 
   get 'healthcheck' => 'healthcheck#check'
   get 'healthcheck/overdue' => 'healthcheck#overdue'
 
   # TODO: Remove when paths for new content can be generated without a route helper
-  get '/guidance/:id' => 'detailed_guides#show', constraints: {id: /[A-z0-9\-]+/}, as: 'detailed_guide', localised: true
+  get '/guidance/:id' => 'detailed_guides#show', constraints: {id: /[A-z0-9\-]+/}, as: 'detailed_guide'
 
   get '/government/uploads/system/uploads/consultation_response_form/*path.:extension' => LongLifeRedirect.new('/government/uploads/system/uploads/consultation_response_form_data/')
   get '/government/uploads/system/uploads/attachment_data/file/:id/*file.:extension' => "attachments#show"
