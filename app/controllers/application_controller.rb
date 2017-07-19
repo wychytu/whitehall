@@ -16,6 +16,12 @@ class ApplicationController < ActionController::Base
   layout 'frontend'
   after_action :set_slimmer_template
 
+  def url_for(options = nil)
+    options.delete(:locale) if options.is_a?(Hash) && options[:locale].to_s == "en"
+    super
+  end
+  helper_method :url_for
+
   private
 
   def set_audit_trail_whodunnit
