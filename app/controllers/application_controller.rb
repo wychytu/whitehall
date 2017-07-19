@@ -6,6 +6,9 @@ class ApplicationController < ActionController::Base
   include Slimmer::Template
   include Slimmer::GovukComponents
 
+#  include LocalisedUrlFor
+#  helper_method :url_for
+
   protect_from_forgery
 
   before_action :set_slimmer_application_name
@@ -15,12 +18,6 @@ class ApplicationController < ActionController::Base
 
   layout 'frontend'
   after_action :set_slimmer_template
-
-  def url_for(options = nil)
-    options.delete(:locale) if options.is_a?(Hash) && options[:locale].to_s == "en"
-    super
-  end
-  helper_method :url_for
 
   private
 

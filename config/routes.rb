@@ -36,11 +36,14 @@ Whitehall::Application.routes.draw do
   # World locations and Worldwide organisations
   get '/world/organisations/:organisation_id/office' => redirect('/world/organisations/%{organisation_id}', prefix: '')
   get '/world/organisations/:organisation_id/about' => redirect('/world/organisations/%{organisation_id}', prefix: '')
-  resources :worldwide_organisations, path: 'world/organisations', only: [:show], localised: true do
+  get '/world/organisations/:id(.:locale)', as: "worldwide_organisation", to: "worldwide_organisations#show"
+
+  resources :worldwide_organisations, path: 'world/organisations', only: [] do
     resources :corporate_information_pages, only: [:show], path: 'about', localised: true
     # Dummy path for the sake of polymorphic_path: will always be directed above.
     get :about
-    resources :worldwide_offices, path: 'office', only: [:show]
+
+    get '/office/:id(.:locale)', to: "worldwide_offices#show", as: :worldwide_office
   end
 
   resources :embassies, path: 'world/embassies', only: [:index]
