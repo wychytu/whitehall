@@ -7,6 +7,8 @@ class PublicFacingController < ApplicationController
 
   around_action :set_locale
 
+  include LocalisedUrlPathHelper
+
   rescue_from GdsApi::TimedOutException do |exception|
     log_error_and_render_500 exception
   end

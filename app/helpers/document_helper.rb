@@ -199,7 +199,13 @@ Please tell us:
   end
 
   def link_to_translation(locale)
-    link_to native_language_name_for(locale), { locale: locale }, lang: locale
+    options = {}
+
+    unless locale.to_s == "en"
+      options[:locale] = locale
+    end
+
+    link_to native_language_name_for(locale), options, lang: locale
   end
 
   def part_of_metadata(document, policies = [], sector_tag_finder = SpecialistTagFinder::Null.new)
