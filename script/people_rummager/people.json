@@ -1,0 +1,8008 @@
+{
+"results": [
+{
+"slug": "theresa-may",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/theresa-may",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "matthew-hancock",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/matthew-hancock",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "lord-ahmad-of-wimbledon",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/lord-ahmad-of-wimbledon",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jo-johnson",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jo-johnson",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "mark-thomson",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/mark-thomson",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "greg-clark",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/greg-clark",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "justine-greening",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/justine-greening",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "sajid-javid",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/sajid-javid",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "karen-bradley",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/karen-bradley",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "chris-grayling",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/chris-grayling",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "michael-gove",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/michael-gove",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "priti-patel",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/priti-patel",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jeremy-hunt",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jeremy-hunt",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "amber-rudd",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/amber-rudd",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "david-lidington",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/david-lidington",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "david-davis",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/david-davis",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "alistair-burt",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/alistair-burt",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "boris-johnson",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/boris-johnson",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "david-gauke",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/david-gauke",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "robert-goodwill",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/robert-goodwill",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "philip-hammond",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/philip-hammond",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "philip-dunne",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/philip-dunne",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "margot-james",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/margot-james",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "andrew-jones",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/andrew-jones",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "alok-sharma",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/alok-sharma",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "liam-fox",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/liam-fox",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "therese-coffey",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/therese-coffey",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "sally-davies",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/sally-davies",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "anne-milton",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/anne-milton",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "penny-mordaunt",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/penny-mordaunt",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "mark-field",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/mark-field",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "amanda-spiel-man",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/amanda-spiel-man",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "david-prior",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/david-prior",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jackie-doyle-price",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jackie-doyle-price",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "steve-brine",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/steve-brine",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "michael-fallon",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/michael-fallon",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "dominic-asquith",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/dominic-asquith",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "antonia-romeo",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/antonia-romeo",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "tim-suter",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/tim-suter",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "mark-garnier",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/mark-garnier",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jon-thompson--3",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jon-thompson--3",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "john-manzoni",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/john-manzoni",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jesse-norman",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jesse-norman",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "john-glen",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/john-glen",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "mark-walport",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/mark-walport",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "george-eustice",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/george-eustice",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "christopher-whitty",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/christopher-whitty",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "philip-rycroft",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/philip-rycroft",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "mel-stride",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/mel-stride",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jake-berry",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jake-berry",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "catherine-raines",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/catherine-raines",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "sam-gyimah",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/sam-gyimah",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "tracey-crouch",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/tracey-crouch",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "oliver-morley",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/oliver-morley",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "alan-duncan",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/alan-duncan",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "mark-lancaster",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/mark-lancaster",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "lord-howe",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/lord-howe",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "alex-chisholm",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/alex-chisholm",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "anelay-of-st-johns",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/anelay-of-st-johns",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "alastair-morgan",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/alastair-morgan",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "mark-price",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/mark-price",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "tobias-ellwood",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/tobias-ellwood",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "sarah-healey",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/sarah-healey",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "john-hayes",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/john-hayes",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "robin-walker",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/robin-walker",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "lord-callanan",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/lord-callanan",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "sally-collier",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/sally-collier",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "sarah-newton",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/sarah-newton",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "marcus-jones",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/marcus-jones",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jeremy-heywood",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jeremy-heywood",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "ruth-mckernan",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/ruth-mckernan",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "philip-rutnam",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/philip-rutnam",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "gareth-davies",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/gareth-davies",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "ben-wallace",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/ben-wallace",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "tamara-finkelstein",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/tamara-finkelstein",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "matthew-gould",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/matthew-gould",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "peter-lauener",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/peter-lauener",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "harriett-baldwin",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/harriett-baldwin",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "oliver-robbins",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/oliver-robbins",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "alex-ellis",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/alex-ellis",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "edward-troup",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/edward-troup",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "lord-nash",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/lord-nash",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "stuart-peach",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/stuart-peach",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "lord-bourne-of-aberystwyth",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/lord-bourne-of-aberystwyth",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "stephen-lovegrove",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/stephen-lovegrove",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "matthew-rycroft",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/matthew-rycroft",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "eric-pickles",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/eric-pickles",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "catherine-quinn",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/catherine-quinn",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "clare-moriarty",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/clare-moriarty",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "simon-mcdonald",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/simon-mcdonald",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "lord-gardiner-of-kimble",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/lord-gardiner-of-kimble",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "emma-howard-boyd",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/emma-howard-boyd",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "guy-opperman",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/guy-opperman",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "john-casson",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/john-casson",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "patrick-mcloughlin",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/patrick-mcloughlin",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "harriet-cross",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/harriet-cross",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "justin-holliday",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/justin-holliday",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "paul-maynard",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/paul-maynard",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "dominic-raab",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/dominic-raab",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jim-o-sullivan",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jim-o-sullivan",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "catherine-webb",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/catherine-webb",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "damian-hinds",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/damian-hinds",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "tom-shinner",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/tom-shinner",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "gordon-messenger",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/gordon-messenger",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "charles-montgomery",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/charles-montgomery",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "david-carter",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/david-carter",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "cat-little",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/cat-little",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "nicholas-hopton",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/nicholas-hopton",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "james-brokenshire",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/james-brokenshire",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "steve-baker",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/steve-baker",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "antony-phillipson",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/antony-phillipson",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "gareth-rhys-williams",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/gareth-rhys-williams",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "thomas-drew",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/thomas-drew",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "richard-keen",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/richard-keen",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "karen-wheeler",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/karen-wheeler",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "nicholas-patrick-carter",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/nicholas-patrick-carter",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "gavin-barwell",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/gavin-barwell",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "nic-hailey",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/nic-hailey",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "caroline-dinenage",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/caroline-dinenage",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "paul-madden",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/paul-madden",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "tim-coulson",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/tim-coulson",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "tom-hurd",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/tom-hurd",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "tim-moss",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/tim-moss",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "matt-baugh",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/matt-baugh",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "andrew-rhodes",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/andrew-rhodes",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "bharat-joshi",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/bharat-joshi",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "david-cameron",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/david-cameron",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "dominic-herrington",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/dominic-herrington",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "vicki-treadell",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/vicki-treadell",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jo-farrar",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jo-farrar",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "john-alty",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/john-alty",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "james-bevan",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/james-bevan",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "sir-chris-deverell",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/sir-chris-deverell",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "john-saville",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/john-saville",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jaee-samant",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jaee-samant",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "ann-lewis",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/ann-lewis",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "christian-turner",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/christian-turner",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "rebecca-clark",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/rebecca-clark",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "sir-philip-jones",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/sir-philip-jones",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "susan-williams-of-trafford",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/susan-williams-of-trafford",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "louise-tulett",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/louise-tulett",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "helen-macnamara",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/helen-macnamara",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "michael-spurr",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/michael-spurr",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "richard-heaton",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/richard-heaton",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "nick-dyer",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/nick-dyer",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "alexander-evans",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/alexander-evans",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "lord-bates",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/lord-bates",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "melanie-dawes",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/melanie-dawes",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "mike-ashley",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/mike-ashley",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "scott-wightman",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/scott-wightman",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "joanna-key",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/joanna-key",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "lindsay-croisdale-appleby",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/lindsay-croisdale-appleby",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "susannah-storey",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/susannah-storey",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "phillip-lee",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/phillip-lee",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "chris-jones",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/chris-jones",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "alison-blake",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/alison-blake",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "martin-post",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/martin-post",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jon-benjamin",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jon-benjamin",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "chris-skidmore",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/chris-skidmore",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jeremy-pocklington",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jeremy-pocklington",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "mark-sedwill",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/mark-sedwill",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "bernadette-kelly",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/bernadette-kelly",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "paul-williams",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/paul-williams",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jonathan-slater",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jonathan-slater",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "vicky-beer",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/vicky-beer",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "lucy-smith",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/lucy-smith",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "alison-rose",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/alison-rose",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "kim-darroch",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/kim-darroch",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "sam-beckett",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/sam-beckett",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jeremy-wright",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jeremy-wright",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "helen-stephenson",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/helen-stephenson",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "duncan-selbie",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/duncan-selbie",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "david-kennedy",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/david-kennedy",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "chris-wormald",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/chris-wormald",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "rupert-mcneil",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/rupert-mcneil",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "francis-maude",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/francis-maude",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jane-marriott",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jane-marriott",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "sue-owen",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/sue-owen",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "alun-cairns-mp",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/alun-cairns-mp",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "kevin-cunnington",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/kevin-cunnington",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "menna-rawlings",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/menna-rawlings",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "dave-ramsden",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/dave-ramsden",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "william-shawcross",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/william-shawcross",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "david-williams",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/david-williams",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "paul-lincoln",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/paul-lincoln",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "nigel-casey",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/nigel-casey",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "clive-maxwell",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/clive-maxwell",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "emma-moore",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/emma-moore",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "philip-barton",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/philip-barton",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "tom-scholar",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/tom-scholar",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "mike-driver",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/mike-driver",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "louis-taylor",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/louis-taylor",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jill-morris-cmg",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jill-morris-cmg",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "natalie-evans-of-bowes-park",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/natalie-evans-of-bowes-park",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "julian-kelly",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/julian-kelly",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "robin-grimes",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/robin-grimes",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "alex-aiken",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/alex-aiken",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "richard-nugee",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/richard-nugee",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "matthew-coats",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/matthew-coats",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "peter-wilson--2",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/peter-wilson--2",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "katharine-braddick",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/katharine-braddick",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "christine-quinn",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/christine-quinn",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "mike-potter",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/mike-potter",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "david-holdsworth",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/david-holdsworth",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jonathan-drew",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jonathan-drew",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "keith-smith",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/keith-smith",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "patsy-wilkinson",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/patsy-wilkinson",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "moazzam-malik",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/moazzam-malik",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "tim-hitchens",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/tim-hitchens",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "philip-parham",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/philip-parham",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "emma-squire",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/emma-squire",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "philip-duffy",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/philip-duffy",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "ian-campbell",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/ian-campbell",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "karen-pierce",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/karen-pierce",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "janet-renou",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/janet-renou",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "paul-thomas-arkwright",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/paul-thomas-arkwright",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "justin-russell",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/justin-russell",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "edward-lister",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/edward-lister",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "andrea-coscelli",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/andrea-coscelli",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "barbara-woodward",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/barbara-woodward",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "james-bowler",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/james-bowler",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "baroness-buscombe",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/baroness-buscombe",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "robert-devereux",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/robert-devereux",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jonathan-jones",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jonathan-jones",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "edward-timpson",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/edward-timpson",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "michelle-russell",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/michelle-russell",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "john-loughhead",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/john-loughhead",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "charles-roxburgh",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/charles-roxburgh",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "betsy-bassis",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/betsy-bassis",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "deborah-bronnert",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/deborah-bronnert",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "susan-acland-hood",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/susan-acland-hood",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "david-mundell",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/david-mundell",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "helen-bower-easton",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/helen-bower-easton",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "mike-parsons",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/mike-parsons",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "nigel-gibbens",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/nigel-gibbens",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "angie-ridgwell",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/angie-ridgwell",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "david-concar",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/david-concar",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "mike-green",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/mike-green",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "ian-hudson",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/ian-hudson",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "rowena-collins-rice",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/rowena-collins-rice",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "angela-macdonald",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/angela-macdonald",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "philippa-lloyd",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/philippa-lloyd",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "howard-orme",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/howard-orme",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "sarah-richards",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/sarah-richards",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "tony-douglas",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/tony-douglas",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "chloe-smith",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/chloe-smith",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "hilary-spencer",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/hilary-spencer",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "indra-morris",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/indra-morris",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "sonia-crozier",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/sonia-crozier",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "iain-macleod",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/iain-macleod",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "lesley-cowley",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/lesley-cowley",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jonathan-wilks",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jonathan-wilks",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "julie-taylor",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/julie-taylor",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "danuta-gray",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/danuta-gray",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "phil-copple",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/phil-copple",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "paul-skinner",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/paul-skinner",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "simon-fraser",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/simon-fraser",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "hugh-ind",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/hugh-ind",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "sarah-macintosh",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/sarah-macintosh",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "margaret-stephens",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/margaret-stephens",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "richard-moore",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/richard-moore",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "kate-smith",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/kate-smith",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "ajay-sharma",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/ajay-sharma",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "mark-bowman",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/mark-bowman",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "ian-boyd",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/ian-boyd",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "tim-dafforn",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/tim-dafforn",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "alison-munro",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/alison-munro",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "giles-lever",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/giles-lever",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "helen-judge",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/helen-judge",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "stephen-hillier",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/stephen-hillier",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jim-mackey",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jim-mackey",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "kevin-mcgurgan",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/kevin-mcgurgan",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "charles-farr",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/charles-farr",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "sue-husband",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/sue-husband",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "vacancy--2",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/vacancy--2",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "lee-bailey",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/lee-bailey",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "graham-farrant",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/graham-farrant",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "mark-thurston",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/mark-thurston",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "nick-walkley",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/nick-walkley",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jonathan-allen",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jonathan-allen",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "david-king",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/david-king",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "iain-lindsay",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/iain-lindsay",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "stephen-speed",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/stephen-speed",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "kim-gould",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/kim-gould",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "louise-smyth",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/louise-smyth",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "alison-pritchard",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/alison-pritchard",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "sue-gray",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/sue-gray",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "nick-lodge",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/nick-lodge",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "gavin-williamson",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/gavin-williamson",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "david-meller",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/david-meller",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "peter-watkins",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/peter-watkins",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "caroline-wilson",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/caroline-wilson",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "lindy-cameron",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/lindy-cameron",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "nick-joyce",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/nick-joyce",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "sarah-price",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/sarah-price",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "christopher-holtby",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/christopher-holtby",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "edward-llewellyn",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/edward-llewellyn",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "joanna-roper",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/joanna-roper",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "mark-lyall-grant",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/mark-lyall-grant",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "brian-davidson",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/brian-davidson",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jane-ellison",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jane-ellison",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "elaine-holt",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/elaine-holt",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "clara-swinson",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/clara-swinson",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "esther-wallington",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/esther-wallington",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "nicola-blackwood",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/nicola-blackwood",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "laurie-bristow",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/laurie-bristow",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "andrew-percy",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/andrew-percy",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "nicky-morgan",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/nicky-morgan",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "andrew-whittaker",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/andrew-whittaker",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "charles-hay",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/charles-hay",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jim-oneill",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jim-oneill",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "richard-cripwell",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/richard-cripwell",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "charlie-taylor",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/charlie-taylor",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "susan-hooper",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/susan-hooper",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jim-crawford",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jim-crawford",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "francesca-osowska",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/francesca-osowska",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "liane-saunders",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/liane-saunders",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jill-gallard",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jill-gallard",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "simon-ridley",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/simon-ridley",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "alan-milburn",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/alan-milburn",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "lucy-chadwick",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/lucy-chadwick",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "joan-aitken",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/joan-aitken",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "sarah-bell",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/sarah-bell",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "lee-mcdonough",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/lee-mcdonough",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "patrick-davies",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/patrick-davies",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "catherine-vaughan",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/catherine-vaughan",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "simon-manley--2",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/simon-manley--2",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "beth-russell",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/beth-russell",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jan-thompson",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jan-thompson",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "peter-jones",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/peter-jones",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "paul-kett",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/paul-kett",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "andrew-patrick",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/andrew-patrick",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "orlando-fraser",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/orlando-fraser",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "andrew-sells",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/andrew-sells",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "paul-anderson",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/paul-anderson",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "edward-ferguson",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/edward-ferguson",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "ceri-witchard",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/ceri-witchard",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "chris-oconnor",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/chris-oconnor",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "dominic-jermey",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/dominic-jermey",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "chris-rayner",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/chris-rayner",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "sebastian-wood",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/sebastian-wood",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "edward-oakden",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/edward-oakden",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "theodore-agnew",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/theodore-agnew",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "colin-matthews",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/colin-matthews",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "tim-leunig",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/tim-leunig",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "james-quinault",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/james-quinault",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "peter-schofield",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/peter-schofield",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "stephen-dance",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/stephen-dance",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "tom-smith",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/tom-smith",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jennifer-bexon-smith",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jennifer-bexon-smith",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "rob-wilson",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/rob-wilson",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "peter-hill",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/peter-hill",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "david-prodger",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/david-prodger",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "angus-stewart",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/angus-stewart",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jonathan-sinclair",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jonathan-sinclair",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "paul-fox",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/paul-fox",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "steve-quartermain",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/steve-quartermain",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "david-quarrey",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/david-quarrey",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jonathan-knott",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jonathan-knott",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "andrew-mcnaughton",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/andrew-mcnaughton",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "joy-hutcheon",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/joy-hutcheon",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "nick-bridge",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/nick-bridge",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "gill-aitken",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/gill-aitken",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "hugh-elliott",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/hugh-elliott",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "mike-sheridan",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/mike-sheridan",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "anwar-choudhury",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/anwar-choudhury",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "paul-martin",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/paul-martin",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "julian-braithwaite",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/julian-braithwaite",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "frank-baker",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/frank-baker",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "cmg-lvo-mbe-tim-barrow",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/cmg-lvo-mbe-tim-barrow",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "mark-lowcock",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/mark-lowcock",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "susanna-moorehead",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/susanna-moorehead",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "nick-heath",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/nick-heath",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "graham-williams",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/graham-williams",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "tony-meggs",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/tony-meggs",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "robin-barnett",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/robin-barnett",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "dominic-mcallister",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/dominic-mcallister",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "john-curtin",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/john-curtin",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "steve-allen",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/steve-allen",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "luke-tryl",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/luke-tryl",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "james-norton",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/james-norton",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "ed-vaizey",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/ed-vaizey",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "simon-collis",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/simon-collis",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "michael-ward",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/michael-ward",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "andrew-heyn",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/andrew-heyn",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "iain-walsh",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/iain-walsh",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "sarah-gillett",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/sarah-gillett",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jonathan-darby",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jonathan-darby",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "neil-couling",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/neil-couling",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "david-richardson",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/david-richardson",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "louise-de-sousa",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/louise-de-sousa",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "graham-russell",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/graham-russell",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "david-jones",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/david-jones",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "susan-park",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/susan-park",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "gareth-llewellyn",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/gareth-llewellyn",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "mayank-prakash",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/mayank-prakash",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "richard-lindsay",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/richard-lindsay",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "john-edwards",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/john-edwards",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "john-leyland",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/john-leyland",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "eric-peacock",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/eric-peacock",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "kevin-baughan",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/kevin-baughan",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "owen-jenkins",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/owen-jenkins",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "katy-ware",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/katy-ware",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "sarah-atkinson",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/sarah-atkinson",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "paul-skelton",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/paul-skelton",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "chris-trott",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/chris-trott",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "david-currie",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/david-currie",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "thomas-reilly",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/thomas-reilly",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "andrew-cook",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/andrew-cook",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "david-hughes",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/david-hughes",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "peter-boxer",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/peter-boxer",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "emma-head",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/emma-head",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "david-calvert-smith",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/david-calvert-smith",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "alison-saunders",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/alison-saunders",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "david-mowat",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/david-mowat",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "guto-bebb",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/guto-bebb",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "stephen-phipson",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/stephen-phipson",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "paul-kirby",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/paul-kirby",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "richard-morris",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/richard-morris",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "yvonne-doyle",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/yvonne-doyle",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "simon-case",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/simon-case",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "justin-mckenzie-smith",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/justin-mckenzie-smith",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "peter-fish",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/peter-fish",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "nicolas-harrocks",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/nicolas-harrocks",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jennifer-anderson",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jennifer-anderson",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "matthew-atkinson",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/matthew-atkinson",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "paul-mason",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/paul-mason",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "shaun-mcnally",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/shaun-mcnally",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "john-wilkinson",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/john-wilkinson",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "antony-stokes",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/antony-stokes",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "john-edwards--2",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/john-edwards--2",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "mark-kent",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/mark-kent",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "carolyn-browne",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/carolyn-browne",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "eryl-besse",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/eryl-besse",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "mike-pettifer",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/mike-pettifer",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "stephen-meek",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/stephen-meek",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "isabelle-trowler",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/isabelle-trowler",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "david-peattie",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/david-peattie",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "charles-alexander",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/charles-alexander",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "laurie-benson",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/laurie-benson",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "james-kariuki",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/james-kariuki",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "richard-gleave",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/richard-gleave",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "paul-rennie",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/paul-rennie",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "sonia-phippard",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/sonia-phippard",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "harriet-thompson",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/harriet-thompson",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "alan-eccles",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/alan-eccles",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "adele-downey",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/adele-downey",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "fiona-caldicott",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/fiona-caldicott",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "simon-edmonds",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/simon-edmonds",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "david-hood",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/david-hood",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "mike-griffiths",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/mike-griffiths",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "george-bridges",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/george-bridges",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "claudia-sturt",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/claudia-sturt",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "vijay-rangarajan",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/vijay-rangarajan",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "ros-lynch",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/ros-lynch",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "sarah-albon",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/sarah-albon",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "vivienne-cox",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/vivienne-cox",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "richard-crowder",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/richard-crowder",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "gail-marzetti",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/gail-marzetti",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "david-batters",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/david-batters",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jane-harbottle",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jane-harbottle",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "andrew-adonis",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/andrew-adonis",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "currie",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/currie",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "ed-smith",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/ed-smith",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "kevin-sadler",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/kevin-sadler",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "neil-crompton",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/neil-crompton",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "thorda-abbott-watt",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/thorda-abbott-watt",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "michael-tatham",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/michael-tatham",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "michael-aron",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/michael-aron",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "matthew-coffey",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/matthew-coffey",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "holly-tett",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/holly-tett",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "james-dauris",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/james-dauris",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "william-gelling",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/william-gelling",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "geoffrey-adams",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/geoffrey-adams",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "adrian-simper",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/adrian-simper",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "david-prout",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/david-prout",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "robert-buckland",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/robert-buckland",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "steve-holliday",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/steve-holliday",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "catherine-brown",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/catherine-brown",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jeremy-moore",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jeremy-moore",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "julian-evans",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/julian-evans",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "timothy-morris",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/timothy-morris",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "philip-graham",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/philip-graham",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "neil-hartley",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/neil-hartley",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "pete-vowles",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/pete-vowles",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "tim-guy",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/tim-guy",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "david-cairns",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/david-cairns",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "nigel-townley",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/nigel-townley",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "howard-drake",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/howard-drake",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jacky-perkins",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jacky-perkins",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "vince-cable",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/vince-cable",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "liz-doherty",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/liz-doherty",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "helen-fazey",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/helen-fazey",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jonathan-dunn",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jonathan-dunn",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "stephen-braviner-roman",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/stephen-braviner-roman",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "paul-mccomb",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/paul-mccomb",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "duncan-taylor",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/duncan-taylor",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "john-murton",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/john-murton",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "richard-harding",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/richard-harding",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "amelia-fawcett",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/amelia-fawcett",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "martin-clarke",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/martin-clarke",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "baroness-neville-rolfe-dbe",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/baroness-neville-rolfe-dbe",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jonathan-marron",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jonathan-marron",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "scott-mcpherson",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/scott-mcpherson",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "neil-mendoza",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/neil-mendoza",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "john-newton",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/john-newton",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "derrick-crook",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/derrick-crook",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "joana-crellin",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/joana-crellin",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "ian-collard",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/ian-collard",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "marshall-elliott",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/marshall-elliott",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "catherine-arnold",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/catherine-arnold",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "elaine-brown",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/elaine-brown",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "ruby-mcgregor-smith",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/ruby-mcgregor-smith",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "anthony-finkelstein",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/anthony-finkelstein",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "baroness-joanna-shields",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/baroness-joanna-shields",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "simon-walker",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/simon-walker",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "adrian-long",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/adrian-long",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "ann-mccall",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/ann-mccall",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "joanna-reid",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/joanna-reid",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "eleanor-schooling",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/eleanor-schooling",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "tim-blackmore",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/tim-blackmore",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "katrina-williams",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/katrina-williams",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "crystal-akass-and-ruth-bailey-job-share",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/crystal-akass-and-ruth-bailey-job-share",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "julia-bond",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/julia-bond",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "marion-plant",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/marion-plant",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "asif-ahmad",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/asif-ahmad",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "ben-gummer",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/ben-gummer",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "ruairi-oconnell",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/ruairi-oconnell",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "kara-own",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/kara-own",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "paul-cosford",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/paul-cosford",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "carole-oatway",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/carole-oatway",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "vanessa-howlison",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/vanessa-howlison",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "alan-massey",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/alan-massey",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "tricia-hayes",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/tricia-hayes",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "michael-rawlins",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/michael-rawlins",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "grenville-turner",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/grenville-turner",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "toby-willison",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/toby-willison",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "ian-cheshire",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/ian-cheshire",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "kumar-iyer",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/kumar-iyer",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "simon-wren",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/simon-wren",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "gerry-grimstone",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/gerry-grimstone",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "archie-norman",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/archie-norman",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "chris-russell",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/chris-russell",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "nick-joicey",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/nick-joicey",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "james-cross",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/james-cross",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "martyn-roper",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/martyn-roper",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "david-rossington",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/david-rossington",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "duncan-thompson",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/duncan-thompson",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "phil-blythe",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/phil-blythe",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "glynne-jones",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/glynne-jones",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "sara-weller",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/sara-weller",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "kenneth-dibble",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/kenneth-dibble",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "tony-ackroyd",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/tony-ackroyd",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "paul-brooker",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/paul-brooker",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "sue-langley",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/sue-langley",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "phil-bushby",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/phil-bushby",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "judith-gough",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/judith-gough",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "david-moran",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/david-moran",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "graham-zebedee",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/graham-zebedee",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "thomas-barry",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/thomas-barry",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "bruce-bucknell",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/bruce-bucknell",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "paul-gray",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/paul-gray",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "simon-thomas--2",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/simon-thomas--2",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "ruth-elliot",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/ruth-elliot",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "george-osborne",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/george-osborne",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "emma-hopkins",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/emma-hopkins",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "simon-lyster",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/simon-lyster",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "emma-ing",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/emma-ing",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "volker-beckers",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/volker-beckers",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "simon-evans",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/simon-evans",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "sean-dennehey",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/sean-dennehey",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "kate-rudd",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/kate-rudd",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "guy-lester",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/guy-lester",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "julie-williams",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/julie-williams",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "alice-walpole",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/alice-walpole",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "ross-denny",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/ross-denny",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "hugo-shorter",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/hugo-shorter",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "michelle-crotty",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/michelle-crotty",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "paula-leach",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/paula-leach",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "roger-lowe--2",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/roger-lowe--2",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "kenna-kintrea--2",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/kenna-kintrea--2",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "david-jones--2",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/david-jones--2",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "matthew-campbell-hill",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/matthew-campbell-hill",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "fields-wicker-miurin",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/fields-wicker-miurin",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "dominic-schroeder",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/dominic-schroeder",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "charlie-massey",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/charlie-massey",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "nick-jones",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/nick-jones",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "vanessa-sharp",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/vanessa-sharp",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "rachel-merelie",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/rachel-merelie",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "steve-livingstone",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/steve-livingstone",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "bradley-simmons",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/bradley-simmons",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "sinead-osullivan",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/sinead-osullivan",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "josephine-gauld",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/josephine-gauld",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "anna-clunes",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/anna-clunes",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "alison-currie",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/alison-currie",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "ann-dowling",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/ann-dowling",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "mike-walker",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/mike-walker",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "robert-halfon",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/robert-halfon",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "andrew-noble",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/andrew-noble",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "shamik-dhar",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/shamik-dhar",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "simon-boddis",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/simon-boddis",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "nick-borwell",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/nick-borwell",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "christian-schneider",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/christian-schneider",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "stephen-bridges",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/stephen-bridges",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "debbie-alder",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/debbie-alder",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "john-humphrey",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/john-humphrey",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "miranda-curtis",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/miranda-curtis",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "colin-crorkin-mbe",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/colin-crorkin-mbe",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "phil-haslam",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/phil-haslam",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "tim-jenkins",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/tim-jenkins",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "robert-mcneil",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/robert-mcneil",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "thomas-carter",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/thomas-carter",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "karen-bell",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/karen-bell",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "fiona-macgregor",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/fiona-macgregor",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "charlotte-watts",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/charlotte-watts",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "david-fitton",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/david-fitton",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "richard-meddings",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/richard-meddings",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "simon-murray",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/simon-murray",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "gina-radford",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/gina-radford",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "claire-johnston",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/claire-johnston",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "andrew-harrison",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/andrew-harrison",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "marc-baker",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/marc-baker",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "dave-perry",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/dave-perry",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "nick-pickard",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/nick-pickard",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "rachel-mclean",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/rachel-mclean",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "lord-justice-fulford",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/lord-justice-fulford",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "nigel-reader",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/nigel-reader",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "ian-gibbons",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/ian-gibbons",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "ruth-owen",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/ruth-owen",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "graham-turnock",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/graham-turnock",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "michael-gibbons",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/michael-gibbons",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "rachael-cunningham",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/rachael-cunningham",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "peter-millett",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/peter-millett",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "navees-rahman",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/navees-rahman",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "ben-mellor",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/ben-mellor",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "angela-knight",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/angela-knight",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "lucy-joyce",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/lucy-joyce",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "lyn-romeo",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/lyn-romeo",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "michael-nevin",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/michael-nevin",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "rob-holden",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/rob-holden",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "clare-chapman",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/clare-chapman",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "mike-penning",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/mike-penning",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "tony-porter",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/tony-porter",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "harvey-bradshaw",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/harvey-bradshaw",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "beverley-bell",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/beverley-bell",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "julie-lennard",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/julie-lennard",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "christine-hewitt--2",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/christine-hewitt--2",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "june-raine",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/june-raine",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "andrew-mccully",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/andrew-mccully",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "lizzie-noel",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/lizzie-noel",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "mark-russell",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/mark-russell",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "andrew-sanderson",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/andrew-sanderson",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "david-ellis",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/david-ellis",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "john-quinn",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/john-quinn",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "ian-ferguson",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/ian-ferguson",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "david-johnston",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/david-johnston",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "gerald-heddell",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/gerald-heddell",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "margaret-tongue",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/margaret-tongue",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "tony-leifer",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/tony-leifer",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jonathan-stephens",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jonathan-stephens",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "paul-kissack",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/paul-kissack",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "matthew-logde",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/matthew-logde",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "kathryn-parsons",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/kathryn-parsons",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "rebecca-endean",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/rebecca-endean",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "janet-ashdown",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/janet-ashdown",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "stephen-a-carter",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/stephen-a-carter",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "stephanie-al-qaq",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/stephanie-al-qaq",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "john-tuckett",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/john-tuckett",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "peter-tibber",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/peter-tibber",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "william-hague--2",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/william-hague--2",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "bill-longhurst",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/bill-longhurst",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jane-owen",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jane-owen",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "mervyn-walker",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/mervyn-walker",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "fiona-clouder",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/fiona-clouder",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "richard-turfitt",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/richard-turfitt",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "david-pepper",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/david-pepper",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "simon-kirby--2",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/simon-kirby--2",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "matthew-speers",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/matthew-speers",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "leigh-turner",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/leigh-turner",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "peter-west",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/peter-west",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "vanessa-birchall-scott",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/vanessa-birchall-scott",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jonathan-turner",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jonathan-turner",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "kevin-rooney",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/kevin-rooney",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "james-dowler--2",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/james-dowler--2",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "clare-pillman",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/clare-pillman",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jo-lomas",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jo-lomas",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "chris-campbell",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/chris-campbell",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "matthew-kidd",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/matthew-kidd",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "stephen-aldridge",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/stephen-aldridge",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "joanna-kuenssberg-o-sullivan",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/joanna-kuenssberg-o-sullivan",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "brian-olley",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/brian-olley",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jo-moir",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jo-moir",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "neil-taylor",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/neil-taylor",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "nicole-davison",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/nicole-davison",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "tim-hemmings",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/tim-hemmings",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "stephen-lillie",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/stephen-lillie",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "charles-edmund-garrett",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/charles-edmund-garrett",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "catherine-nettleton",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/catherine-nettleton",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "nick-astbury",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/nick-astbury",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "john-kittmer",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/john-kittmer",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "ruth-may",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/ruth-may",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "kirsty-hayes",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/kirsty-hayes",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "nick-markham",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/nick-markham",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "peter-mucklow--2",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/peter-mucklow--2",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "philip-smith",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/philip-smith",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "william-cockbain",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/william-cockbain",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "sean-harford",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/sean-harford",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "stuart-gill",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/stuart-gill",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "belinda-lewis",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/belinda-lewis",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "julia-longbottom",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/julia-longbottom",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "catherine-inglehearn",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/catherine-inglehearn",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "robin-jeremy-ord-smith-mvo",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/robin-jeremy-ord-smith-mvo",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "kevin-gallagher",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/kevin-gallagher",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "paul",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/paul",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "stuart-morgan",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/stuart-morgan",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "mark-fisher",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/mark-fisher",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "noel-harwerth",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/noel-harwerth",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jacinda-humphry",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jacinda-humphry",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "matthew-vickerstaff",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/matthew-vickerstaff",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "nick-baker",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/nick-baker",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "julia-aglionby",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/julia-aglionby",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "harriet-mathews",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/harriet-mathews",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "paul-vallance",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/paul-vallance",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jennie-barugh",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jennie-barugh",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "alasdair-lewis",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/alasdair-lewis",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "elizabeth-carriere",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/elizabeth-carriere",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "sian-macleod",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/sian-macleod",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "chua-juliet",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/chua-juliet",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "joe-horwood",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/joe-horwood",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "sarah-cardell",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/sarah-cardell",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "sarah-cooke",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/sarah-cooke",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "annabel-gerry",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/annabel-gerry",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "alex-younger",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/alex-younger",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "antony-jenkins",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/antony-jenkins",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "teresa-dent",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/teresa-dent",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "peter-hearn",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/peter-hearn",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jonathan-brenton",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jonathan-brenton",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "alison-beckett",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/alison-beckett",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "colin-wilson",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/colin-wilson",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "catriona-laing-cb",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/catriona-laing-cb",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "roger-taylor",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/roger-taylor",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "tony-kay",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/tony-kay",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "david-metcalf",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/david-metcalf",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "andrew-lison",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/andrew-lison",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jeff-lynn",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jeff-lynn",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "martin-reynolds",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/martin-reynolds",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "neil-wigan",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/neil-wigan",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "bob-gilbert",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/bob-gilbert",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "mary-ney",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/mary-ney",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "adrian-masters",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/adrian-masters",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "gordon-more",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/gordon-more",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "amy-stirling",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/amy-stirling",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "viscount-younger-of-leckie",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/viscount-younger-of-leckie",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "pippa-malmgren",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/pippa-malmgren",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "suzanne-smith--2",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/suzanne-smith--2",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "elizabeth-gardiner",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/elizabeth-gardiner",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "paul-brummell",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/paul-brummell",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "alan-manning",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/alan-manning",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "helen-smith",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/helen-smith",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "alison-cross",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/alison-cross",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "gregor-ogorman",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/gregor-ogorman",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "dorothy-brown",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/dorothy-brown",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "hala-audi",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/hala-audi",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "tim-cole",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/tim-cole",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "richard-brown",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/richard-brown",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "sally-jones",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/sally-jones",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "bayo-dosunmu",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/bayo-dosunmu",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "victoria-bowman",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/victoria-bowman",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "rob-higgins",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/rob-higgins",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "colin-molton",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/colin-molton",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "john-pullinger",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/john-pullinger",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "bernard-silverman",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/bernard-silverman",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "tim-stew",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/tim-stew",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "ingrid-southworth",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/ingrid-southworth",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "amelia-fletcher",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/amelia-fletcher",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "phil-beach",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/phil-beach",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "david-martin",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/david-martin",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "tiffany-sadler",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/tiffany-sadler",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "phil-hammond",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/phil-hammond",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "michelle-meadows",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/michelle-meadows",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "katherine-courtney",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/katherine-courtney",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "david-hill",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/david-hill",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "kevin-fenton",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/kevin-fenton",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "sally-taylor--2",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/sally-taylor--2",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "martin-hagen",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/martin-hagen",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "andrew-mcallister",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/andrew-mcallister",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "tim-hill",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/tim-hill",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "ian-meikle",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/ian-meikle",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "kris-hopkins",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/kris-hopkins",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "andy-street",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/andy-street",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "william-hague",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/william-hague",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "margaret-edwards",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/margaret-edwards",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "flavia-paterson",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/flavia-paterson",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "simon-martin",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/simon-martin",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "richard-hennessy",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/richard-hennessy",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "helen-grant",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/helen-grant",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "john-duncan",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/john-duncan",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "michael-winter",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/michael-winter",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "tim-sawyer",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/tim-sawyer",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "paul-marshall--2",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/paul-marshall--2",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "kathryn-cearns",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/kathryn-cearns",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "danny-payne",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/danny-payne",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "sue-kinoshita",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/sue-kinoshita",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "alice-maynard",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/alice-maynard",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "david-hall",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/david-hall",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "tony-poulter",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/tony-poulter",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "mark-southgate",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/mark-southgate",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "paul-coombs",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/paul-coombs",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "helen-milne",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/helen-milne",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "mary-shockledge",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/mary-shockledge",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jon-day",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jon-day",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "joanna-baldwin",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/joanna-baldwin",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "simon-chesterman--2",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/simon-chesterman--2",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "sarah-chambers--2",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/sarah-chambers--2",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "vic-emery",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/vic-emery",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "peter-hughes",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/peter-hughes",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "bruce-mckirdy",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/bruce-mckirdy",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "john-corderoy",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/john-corderoy",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "robert-ayling",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/robert-ayling",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "michael-wilshaw",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/michael-wilshaw",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "gerard-walker",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/gerard-walker",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jennifer-townson",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jennifer-townson",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "andrew-dalgleish",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/andrew-dalgleish",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "ian-hewett--2",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/ian-hewett--2",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "alan-scott",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/alan-scott",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "maria-miller",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/maria-miller",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "janet-douglas",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/janet-douglas",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "gill-fraser",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/gill-fraser",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "richard-parkes",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/richard-parkes",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "mary-reilly",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/mary-reilly",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jonathan-mogford",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jonathan-mogford",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "naomi-abigail",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/naomi-abigail",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "emma-west",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/emma-west",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "andrew-ayre",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/andrew-ayre",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "john-sirodcar",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/john-sirodcar",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jenny-harries",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jenny-harries",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "roger-pope",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/roger-pope",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "mike-taylor",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/mike-taylor",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "viv-bennett",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/viv-bennett",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "melanie-hopkins",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/melanie-hopkins",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "richard-lambert",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/richard-lambert",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jan-parkinson",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jan-parkinson",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "alastair-pitblado",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/alastair-pitblado",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "bill-dunham",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/bill-dunham",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "christopher-pook",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/christopher-pook",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "tim-robinson",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/tim-robinson",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "james-munson",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/james-munson",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "heather-lawrence",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/heather-lawrence",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "paul-johnstone",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/paul-johnstone",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "gavin-mcgillivray",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/gavin-mcgillivray",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "sheila-mitchell",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/sheila-mitchell",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "cherry-tweed",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/cherry-tweed",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "siu-ping-lam",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/siu-ping-lam",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "sara-pickering",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/sara-pickering",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "john-armitt",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/john-armitt",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "mark-mclaughlin",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/mark-mclaughlin",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "richard-wildash",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/richard-wildash",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "matthew-rous",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/matthew-rous",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "michael-parker",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/michael-parker",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "olivier-evans",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/olivier-evans",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "vel-gnanendran",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/vel-gnanendran",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "alice-bunn",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/alice-bunn",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "edward-roman",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/edward-roman",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "paul-foster",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/paul-foster",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "carolyn-mccall",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/carolyn-mccall",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "warren-tucker",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/warren-tucker",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jeremy-s-newman",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jeremy-s-newman",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "caroline-saunders",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/caroline-saunders",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "dominick-chilcott",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/dominick-chilcott",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "lynne-hamilton",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/lynne-hamilton",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "phil-evans",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/phil-evans",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "martin-donnelly",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/martin-donnelly",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "susan-le-jeune-dallegeershecque",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/susan-le-jeune-dallegeershecque",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "sidonie-kingsmill",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/sidonie-kingsmill",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "david-willetts",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/david-willetts",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jon-davies",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jon-davies",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "paul-johnston",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/paul-johnston",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "helene-reardon-bond",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/helene-reardon-bond",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "kirsty-shaw",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/kirsty-shaw",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "nicholas-houghton",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/nicholas-houghton",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "john-wood",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/john-wood",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "simon-french",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/simon-french",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "sarah-hogg",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/sarah-hogg",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "paul-edwards",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/paul-edwards",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "simon-ricketts",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/simon-ricketts",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "catrina-holme",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/catrina-holme",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "shona-dunn",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/shona-dunn",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "kathy-mclean",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/kathy-mclean",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "john-cameron-webb",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/john-cameron-webb",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "michael-davenport",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/michael-davenport",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "simon-hall",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/simon-hall",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "malcolm-harrison",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/malcolm-harrison",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "sean-corbett",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/sean-corbett",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "peter-borriello",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/peter-borriello",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "nicholas-shott",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/nicholas-shott",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jonathan-lyle",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jonathan-lyle",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jeff-glekin",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jeff-glekin",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "caroline-anderson",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/caroline-anderson",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "trudi-wakelin",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/trudi-wakelin",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "nigel-turner",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/nigel-turner",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "damian-todd",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/damian-todd",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "simon-blake",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/simon-blake",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "deborah-clarke",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/deborah-clarke",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "guy-thompson",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/guy-thompson",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "rafe-courage",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/rafe-courage",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "sarah-veale",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/sarah-veale",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "bryan-clarke",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/bryan-clarke",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "tim-score",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/tim-score",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "neil-holland",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/neil-holland",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "peter-westmacott",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/peter-westmacott",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "stuart-quickenden",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/stuart-quickenden",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "rob-wilmot",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/rob-wilmot",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "noel-shanahan",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/noel-shanahan",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "kath-webster",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/kath-webster",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "sally-jones-evans",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/sally-jones-evans",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "alyson-king",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/alyson-king",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "bernhard-garside",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/bernhard-garside",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "george-jenkins",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/george-jenkins",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "ian-duddy",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/ian-duddy",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "james-wharton",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/james-wharton",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "ben-linscott",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/ben-linscott",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "tim-flear",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/tim-flear",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "john-studzinski",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/john-studzinski",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "guy-beringer",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/guy-beringer",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "david-wood",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/david-wood",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "chris-thomas",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/chris-thomas",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "ian-corder",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/ian-corder",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "richard-goodman",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/richard-goodman",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "toff-wahab",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/toff-wahab",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "peter-storr",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/peter-storr",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "simon-mustard--3",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/simon-mustard--3",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jonathan-moor",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jonathan-moor",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "andy-clements",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/andy-clements",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "nick-denton",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/nick-denton",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "rebecca-evernden",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/rebecca-evernden",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "wasim-mir",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/wasim-mir",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "evelyn-dickey",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/evelyn-dickey",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "aidan-liddle",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/aidan-liddle",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "keith-allan",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/keith-allan",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jon-rouse",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jon-rouse",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jane-ramsey",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jane-ramsey",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "ed-westhead",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/ed-westhead",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "louise-casey",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/louise-casey",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "lorna-fitzjohn",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/lorna-fitzjohn",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "martin-richmond",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/martin-richmond",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "adam-sambrook",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/adam-sambrook",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "guy-tompkins",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/guy-tompkins",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "marion-leslie",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/marion-leslie",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "tom-burn",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/tom-burn",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jenny-mooney",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jenny-mooney",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "martin-read",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/martin-read",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "michael-yelland-moon",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/michael-yelland-moon",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "ian-robert-whitting",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/ian-robert-whitting",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "denis-keefe--2",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/denis-keefe--2",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "daniel-pruce--2",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/daniel-pruce--2",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "george-freeman",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/george-freeman",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "suzy-levy",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/suzy-levy",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "edmund-fittton-brown",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/edmund-fittton-brown",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jen-marshall",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jen-marshall",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "carolyn-davidson",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/carolyn-davidson",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "faran-johnson",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/faran-johnson",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "ian-fox",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/ian-fox",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "corin-robertson",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/corin-robertson",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "richard-barlow",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/richard-barlow",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "theresa-bubbear",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/theresa-bubbear",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "mike-fishwick",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/mike-fishwick",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "robin-twyman",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/robin-twyman",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "christopher-pycroft",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/christopher-pycroft",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "david-vineall",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/david-vineall",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "kenneth-clarke",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/kenneth-clarke",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "vernon-gibson",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/vernon-gibson",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "catherine-mealing-jones",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/catherine-mealing-jones",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "benedict-llewellyn-jones-obe",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/benedict-llewellyn-jones-obe",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "ewa-van-veenendaal-rawicz",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/ewa-van-veenendaal-rawicz",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "ian-richards",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/ian-richards",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "sarah-tiffin",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/sarah-tiffin",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "fiona-ross",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/fiona-ross",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "mike-eland",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/mike-eland",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "richard-paniguian",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/richard-paniguian",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "christopher-allan",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/christopher-allan",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "davinder-mann",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/davinder-mann",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "samantha-milton",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/samantha-milton",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "vikas-shah",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/vikas-shah",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "john-peaden",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/john-peaden",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "john-dennis",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/john-dennis",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "david-godfrey",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/david-godfrey",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "jon-seddon",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/jon-seddon",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "oliver-heald",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/oliver-heald",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "christina-scott",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/christina-scott",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "timothy-smart",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/timothy-smart",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "greg-quinn",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/greg-quinn",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "alan-giles",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/alan-giles",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "carole-crofts",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/carole-crofts",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "paul-marshall",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/paul-marshall",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "becks-buckingham",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/becks-buckingham",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "ian-forber",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/ian-forber",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "caroline-chisholm-of-owlpen",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/caroline-chisholm-of-owlpen",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "kirsty-evans",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/kirsty-evans",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "michael-grenfell",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/michael-grenfell",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+},
+{
+"slug": "steve-bostock",
+"index": "government",
+"es_score": null,
+"_id": "/government/people/steve-bostock",
+"elasticsearch_type": "edition",
+"document_type": "edition"
+}
+],
+"total": 2796,
+"start": 0,
+"aggregates": {},
+"suggested_queries": []
+}
