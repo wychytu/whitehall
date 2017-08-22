@@ -111,6 +111,10 @@ Then(/^I should be able to filter publications by keyword, publication type, top
 end
 
 When(/^I select a filter option without clicking any button$/) do
+  puts "DEBUG =================================="
+  puts page
+  puts page.body
+
   page.select "A Department", from: "Department"
 end
 
