@@ -9,7 +9,7 @@ namespace :test do
     ENV['RAILS_ENV'] = 'test'
 
     setup_tasks = ['parallel:drop', 'parallel:create', 'parallel:load_schema']
-    test_tasks = ['test_queue', 'shared_mustache:compile', 'parallel:features', 'test:javascript']
+    test_tasks = ['shared_mustache:compile', 'parallel:features']
     cleanup_tasks = ['test:cleanup']
 
     setup_tasks.each { |task| Rake::Task[task].invoke }
