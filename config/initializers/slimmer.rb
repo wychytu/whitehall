@@ -1,4 +1,5 @@
 Rails.application.config.slimmer.logger = Rails.logger
+Rails.application.config.slimmer.enable_debugging = true
 if Rails.env.development?
   # XXX: This needs to specifically be inserted here, as the NewRelic
   # middleware comes after Slimmer, but we need to run before that,
