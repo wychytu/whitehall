@@ -57,6 +57,7 @@ When(/^I visit the publications index page$/) do
   puts "DEBUG 'I visit the publications index page' ==========================="
   puts page
   puts page.body
+  puts "Slimmer asset host: #{Rails.application.config.slimmer.asset_host}"
 end
 
 Then(/^I should be able to filter publications by keyword, publication type, topic, department, official document status, world location, and publication date$/) do
