@@ -8,8 +8,8 @@ namespace :test do
     ENV['CUCUMBER_FORMAT'] = 'progress'
     ENV['RAILS_ENV'] = 'test'
 
-    setup_tasks = ['parallel:drop', 'parallel:create', 'parallel:load_schema']
-    test_tasks = ['shared_mustache:compile', 'parallel:features']
+    setup_tasks = []
+    test_tasks = ['shared_mustache:compile', 'cucumber']
     cleanup_tasks = ['test:cleanup']
 
     setup_tasks.each { |task| Rake::Task[task].invoke }
