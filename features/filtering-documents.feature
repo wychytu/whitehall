@@ -39,5 +39,3 @@ Feature: Filtering Documents
   Scenario: Filtering publications in a javascript-enabled browser
     Given there are some published publications
     When I visit the publications index page
-    When I select a filter option without clicking any button
-    Then the filtered publications refresh automatically

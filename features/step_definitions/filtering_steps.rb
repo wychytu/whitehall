@@ -45,11 +45,18 @@ Given(/^there are some published publications$/) do
   create :published_publication, title: "Publication published too early", first_published_at: "2012-01-01"
   create :published_publication, title: "Publication published too late", first_published_at: "2013-06-01"
   create :published_publication, title: "Publication published within date range", first_published_at: "2013-02-01"
+
+  puts "DEBUG 'there are some published publications' ==========================="
+  puts "Publications: #{Publication.count}"
 end
 
 When(/^I visit the publications index page$/) do
   stub_content_item_from_content_store_for(publications_path)
   visit publications_path
+
+  puts "DEBUG 'I visit the publications index page' ==========================="
+  puts page
+  puts page.body
 end
 
 Then(/^I should be able to filter publications by keyword, publication type, topic, department, official document status, world location, and publication date$/) do
