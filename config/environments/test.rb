@@ -52,7 +52,7 @@ Whitehall::Application.configure do
 
   config.slimmer.asset_host = "http://tests-should-not-depend-on-external-host.com"
 
-  config.slimmer.logger = Logger.new(STDOUT)
+  config.slimmer.logger = Logger.new(STDERR)
   config.slimmer.enable_debugging = true
   config.slimmer.strict = true
 
