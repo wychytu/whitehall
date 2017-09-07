@@ -4,7 +4,6 @@ class Organisation < ApplicationRecord
   include MinisterialRole::MinisterialRoleReindexingConcern
   include Organisation::OrganisationSearchIndexConcern
   include Organisation::OrganisationTypeConcern
-  include HasCorporateInformationPages
 
   DEFAULT_JOBS_URL = 'https://www.civilservicejobs.service.gov.uk/csr'
 
@@ -24,6 +23,10 @@ class Organisation < ApplicationRecord
 
   has_many :edition_organisations, dependent: :destroy, inverse_of: :organisation
   has_many :editions, through: :edition_organisations
+
+  # This needs to come after the `has_many :edition_organisations` line otherwise
+  # Rails will complain about it not being defined
+  include HasCorporateInformationPages
 
   has_many :statistics_announcement_organisations, inverse_of: :organisation, dependent: :destroy
   has_many :statistics_announcements, through: :statistics_announcement_organisations

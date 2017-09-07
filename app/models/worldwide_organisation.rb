@@ -1,6 +1,4 @@
 class WorldwideOrganisation < ApplicationRecord
-  include HasCorporateInformationPages
-
   PRIMARY_ROLES = [AmbassadorRole, HighCommissionerRole, GovernorRole]
 
   has_many :worldwide_organisation_world_locations, dependent: :destroy
@@ -13,9 +11,13 @@ class WorldwideOrganisation < ApplicationRecord
   has_many :worldwide_organisation_roles, inverse_of: :worldwide_organisation, dependent: :destroy
   has_many :roles, through: :worldwide_organisation_roles
   has_many :people, through: :roles
-  has_many :edition_worldwide_organisations, dependent: :destroy, inverse_of: :worldwide_organisation
   has_one  :access_and_opening_times, as: :accessible, dependent: :destroy
   belongs_to :default_news_image, class_name: 'DefaultNewsOrganisationImageData', foreign_key: :default_news_organisation_image_data_id
+  has_many :edition_worldwide_organisations, dependent: :destroy, inverse_of: :worldwide_organisation
+
+  # This needs to come after the `has_many :edition_worldwide_organisations` line
+  # otherwise Rails will complain about it not being defined
+  include HasCorporateInformationPages
 
   accepts_nested_attributes_for :default_news_image, reject_if: :all_blank
 
