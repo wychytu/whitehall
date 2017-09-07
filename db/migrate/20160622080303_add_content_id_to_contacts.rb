@@ -1,4 +1,4 @@
-class AddContentIdToContacts < ActiveRecord::Migration
+class AddContentIdToContacts < ActiveRecord::Migration[4.2]
   def up
     add_column :contacts, :content_id, :string
     Contact.find_each do |contact|

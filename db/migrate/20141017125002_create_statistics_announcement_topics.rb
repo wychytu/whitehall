@@ -1,4 +1,4 @@
-class CreateStatisticsAnnouncementTopics < ActiveRecord::Migration
+class CreateStatisticsAnnouncementTopics < ActiveRecord::Migration[4.2]
   def change
     create_table :statistics_announcement_topics, id: false do |t|
       t.references :statistics_announcement

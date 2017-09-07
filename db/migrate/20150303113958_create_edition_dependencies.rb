@@ -1,4 +1,4 @@
-class CreateEditionDependencies < ActiveRecord::Migration
+class CreateEditionDependencies < ActiveRecord::Migration[4.2]
   def change
     create_table :edition_dependencies do |t|
       t.references :edition

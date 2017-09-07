@@ -1,6 +1,6 @@
 require "securerandom"
 
-class AddContentIdToUnpublishing < ActiveRecord::Migration
+class AddContentIdToUnpublishing < ActiveRecord::Migration[4.2]
   def up
     add_column :unpublishings, :content_id, :string
     Unpublishing.find_each do |unpublishing|

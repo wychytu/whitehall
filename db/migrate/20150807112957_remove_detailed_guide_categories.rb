@@ -1,4 +1,4 @@
-class RemoveDetailedGuideCategories < ActiveRecord::Migration
+class RemoveDetailedGuideCategories < ActiveRecord::Migration[4.2]
   def up
     drop_table :edition_mainstream_categories
     drop_table :organisation_mainstream_categories

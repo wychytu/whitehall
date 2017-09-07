@@ -1,4 +1,4 @@
-class AddContentIdToWorkingGroups < ActiveRecord::Migration
+class AddContentIdToWorkingGroups < ActiveRecord::Migration[4.2]
   def up
     add_column :policy_groups, :content_id, :string, null: false
 

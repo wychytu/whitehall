@@ -1,4 +1,4 @@
-class RemoveUnlinkedSpecialistSectors < ActiveRecord::Migration
+class RemoveUnlinkedSpecialistSectors < ActiveRecord::Migration[4.2]
   def up
     SpecialistSector.delete_all edition_id: nil
   end

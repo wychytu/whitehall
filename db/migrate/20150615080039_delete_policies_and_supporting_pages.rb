@@ -1,4 +1,4 @@
-class DeletePoliciesAndSupportingPages < ActiveRecord::Migration
+class DeletePoliciesAndSupportingPages < ActiveRecord::Migration[4.2]
   def up
     document_ids = Document.where(document_type: [
       "SupportingPage",

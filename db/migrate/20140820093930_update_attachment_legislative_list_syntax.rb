@@ -1,4 +1,4 @@
-class UpdateAttachmentLegislativeListSyntax < ActiveRecord::Migration
+class UpdateAttachmentLegislativeListSyntax < ActiveRecord::Migration[4.2]
   class Attachment < ApplicationRecord; end
 
   def self.fix_attachment(attachment)

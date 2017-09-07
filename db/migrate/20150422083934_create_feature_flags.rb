@@ -1,4 +1,4 @@
-class CreateFeatureFlags < ActiveRecord::Migration
+class CreateFeatureFlags < ActiveRecord::Migration[4.2]
   def change
     create_table :feature_flags do |t|
       t.string :key, unique: true

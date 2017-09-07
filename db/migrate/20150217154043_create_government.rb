@@ -1,4 +1,4 @@
-class CreateGovernment < ActiveRecord::Migration
+class CreateGovernment < ActiveRecord::Migration[4.2]
   def up
     create_table :governments do |t|
       t.string :slug

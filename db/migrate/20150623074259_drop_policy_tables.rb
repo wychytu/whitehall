@@ -1,4 +1,4 @@
-class DropPolicyTables < ActiveRecord::Migration
+class DropPolicyTables < ActiveRecord::Migration[4.2]
   def up
     drop_table :edition_policy_groups
     drop_table :editioned_supporting_page_mappings

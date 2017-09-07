@@ -1,4 +1,4 @@
-class CreateGovspeakContents < ActiveRecord::Migration
+class CreateGovspeakContents < ActiveRecord::Migration[4.2]
   MEDIUM_TEXT = 16.megabytes - 1
 
   def change

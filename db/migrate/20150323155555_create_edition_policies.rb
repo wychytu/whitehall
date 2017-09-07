@@ -1,4 +1,4 @@
-class CreateEditionPolicies < ActiveRecord::Migration
+class CreateEditionPolicies < ActiveRecord::Migration[4.2]
   def change
     create_table :edition_policies do |t|
       t.references :edition

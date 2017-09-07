@@ -1,4 +1,4 @@
-class CreateSyncCheckResults < ActiveRecord::Migration
+class CreateSyncCheckResults < ActiveRecord::Migration[4.2]
   def change
     create_table :sync_check_results do |t|
       t.string :check_class

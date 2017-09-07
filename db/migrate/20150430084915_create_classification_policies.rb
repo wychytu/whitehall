@@ -1,4 +1,4 @@
-class CreateClassificationPolicies < ActiveRecord::Migration
+class CreateClassificationPolicies < ActiveRecord::Migration[4.2]
   def change
     create_table :classification_policies do |t|
       t.references :classification

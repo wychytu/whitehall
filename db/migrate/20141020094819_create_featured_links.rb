@@ -1,4 +1,4 @@
-class CreateFeaturedLinks < ActiveRecord::Migration
+class CreateFeaturedLinks < ActiveRecord::Migration[4.2]
   class FeaturedServicesAndGuidance < ApplicationRecord
     self.table_name = :featured_services_and_guidance
   end

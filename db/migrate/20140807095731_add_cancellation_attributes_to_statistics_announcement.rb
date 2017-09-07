@@ -1,4 +1,4 @@
-class AddCancellationAttributesToStatisticsAnnouncement < ActiveRecord::Migration
+class AddCancellationAttributesToStatisticsAnnouncement < ActiveRecord::Migration[4.2]
   def change
     add_column :statistics_announcements, :cancellation_reason, :text
     add_column :statistics_announcements, :cancelled_at, :timestamp

@@ -1,4 +1,4 @@
-class MakeDocumentContentIdNotNull < ActiveRecord::Migration
+class MakeDocumentContentIdNotNull < ActiveRecord::Migration[4.2]
   def change
     Document.where(content_id: nil).find_each do |document|
       document.update_column(:content_id, SecureRandom.uuid)

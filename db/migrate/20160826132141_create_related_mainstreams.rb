@@ -1,4 +1,4 @@
-class CreateRelatedMainstreams < ActiveRecord::Migration
+class CreateRelatedMainstreams < ActiveRecord::Migration[4.2]
   def change
     create_table :related_mainstreams do |t|
       t.references :edition, index: true, foreign_key: true

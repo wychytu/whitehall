@@ -1,4 +1,4 @@
-class AddOffsiteLinks < ActiveRecord::Migration
+class AddOffsiteLinks < ActiveRecord::Migration[4.2]
   def up
     create_table :offsite_links do |t|
       t.string   "title"

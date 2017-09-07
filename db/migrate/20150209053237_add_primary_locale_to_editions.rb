@@ -1,4 +1,4 @@
-class AddPrimaryLocaleToEditions < ActiveRecord::Migration
+class AddPrimaryLocaleToEditions < ActiveRecord::Migration[4.2]
   def up
     add_column :editions, :primary_locale, :string, default: 'en', null: false
 

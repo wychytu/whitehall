@@ -1,4 +1,4 @@
-class CreateJoinTableStatisticsAnnouncementOrganisation < ActiveRecord::Migration
+class CreateJoinTableStatisticsAnnouncementOrganisation < ActiveRecord::Migration[4.2]
   def up
     create_table :statistics_announcement_organisations, id: false do |t|
       t.references :statistics_announcement
