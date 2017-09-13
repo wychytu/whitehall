@@ -1,3 +1,16 @@
+GIT
+  remote: https://github.com/alphagov/gds-api-adapters.git
+  revision: 37711c2be940b00cd5599e07bfc8e4a00b6864c5
+  branch: serve-whitehall-images-from-asset-manager
+  specs:
+    gds-api-adapters (47.9.1)
+      link_header
+      lrucache (~> 0.1.1)
+      null_logger
+      plek (>= 1.9.0)
+      rack-cache
+      rest-client (~> 2.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -147,13 +160,6 @@ GEM
     ffi (1.9.18)
     friendly_id (5.2.1)
       activerecord (>= 4.0.0)
-    gds-api-adapters (47.9.1)
-      link_header
-      lrucache (~> 0.1.1)
-      null_logger
-      plek (>= 1.9.0)
-      rack-cache
-      rest-client (~> 2.0)
     gds-sso (13.2.0)
       multi_json (~> 1.0)
       oauth2 (~> 1.0)
@@ -327,7 +333,7 @@ GEM
       byebug (~> 9.1)
       pry (~> 0.10)
     rack (2.0.3)
-    rack-cache (1.7.0)
+    rack-cache (1.7.1)
       rack (>= 0.4)
     rack-protection (2.0.0)
       rack
@@ -528,7 +534,7 @@ DEPENDENCIES
   factory_girl
   faraday
   friendly_id (~> 5.2.1)
-  gds-api-adapters (~> 47.9)
+  gds-api-adapters!
   gds-sso (~> 13.2)
   globalize (= 5.1.0.beta2)
   govspeak (~> 5.0.3)

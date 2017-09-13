@@ -2,16 +2,12 @@ require 'whitehall/carrier_wave/sanitized_file'
 
 class Whitehall::AssetManagerStorage < CarrierWave::Storage::Abstract
   def store!(file)
-    # raise file.class.inspect
-    Services.asset_manager.create_asset(file: file.to_file)
+    path = "/government/uploads/system/uploads/image_data/file/#{uploader.model.id}/#{File.basename(file.file)}"
+    Services.asset_manager.create_whitehall_asset(file: file.to_file, path: path)
     file
-
-    # path = ::File.expand_path(uploader.store_path, Whitehall.incoming_uploads_root)
-    # file.copy_to(path, uploader.permissions)
   end
 
   def retrieve!(identifier)
     raise 'AssetManagerStorage#retrieve!'
-    # Services.asset_manager.update_asset(asset_id, file: file.file.to_file)
   end
 end

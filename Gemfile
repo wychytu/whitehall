@@ -59,7 +59,7 @@ gem 'govuk_ab_testing', '~> 2.4x'
 if ENV['GDS_API_ADAPTERS_DEV']
   gem 'gds-api-adapters', path: '../gds-api-adapters'
 else
-  gem 'gds-api-adapters', '~> 47.9'
+  gem 'gds-api-adapters', git: 'https://github.com/alphagov/gds-api-adapters.git', branch: 'serve-whitehall-images-from-asset-manager'
 end
 
 if ENV['GOVSPEAK_DEV']
