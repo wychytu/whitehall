@@ -1,3 +1,16 @@
+GIT
+  remote: https://github.com/alphagov/gds-api-adapters
+  revision: 32ef813ed20e24394460c9ff20d7eab36ca205cf
+  branch: add-whitehall-asset-endpoint
+  specs:
+    gds-api-adapters (49.4.0)
+      link_header
+      lrucache (~> 0.1.1)
+      null_logger
+      plek (>= 1.9.0)
+      rack-cache
+      rest-client (~> 2.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -147,13 +160,6 @@ GEM
     ffi (1.9.18)
     friendly_id (5.2.1)
       activerecord (>= 4.0.0)
-    gds-api-adapters (49.3.1)
-      link_header
-      lrucache (~> 0.1.1)
-      null_logger
-      plek (>= 1.9.0)
-      rack-cache
-      rest-client (~> 2.0)
     gds-sso (13.2.0)
       multi_json (~> 1.0)
       oauth2 (~> 1.0)
@@ -530,7 +536,7 @@ DEPENDENCIES
   factory_girl
   faraday
   friendly_id (~> 5.2.1)
-  gds-api-adapters
+  gds-api-adapters!
   gds-sso (~> 13.2)
   globalize (= 5.1.0.beta2)
   govspeak (~> 5.0.3)
@@ -603,4 +609,4 @@ DEPENDENCIES
   whenever (~> 0.9.7)
 
 BUNDLED WITH
-   1.15.1
+   1.15.2

@@ -59,7 +59,8 @@ gem 'govuk_ab_testing', '~> 2.4x'
 if ENV['GDS_API_ADAPTERS_DEV']
   gem 'gds-api-adapters', path: '../gds-api-adapters'
 else
-  gem 'gds-api-adapters'
+  # TODO: Remove `git` and `branch` options
+  gem 'gds-api-adapters', git: 'https://github.com/alphagov/gds-api-adapters', branch: 'add-whitehall-asset-endpoint'
 end
 
 if ENV['GOVSPEAK_DEV']
