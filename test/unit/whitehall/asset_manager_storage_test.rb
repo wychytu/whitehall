@@ -44,10 +44,12 @@ class Whitehall::AssetManagerStorageTest < ActiveSupport::TestCase
     assert_equal file, storage.store!(file)
   end
 
-  test 'fails fast when trying to retrieve an existing file' do
+  test 'returns an asset manager file' do
     storage = Whitehall::AssetManagerStorage.new(@uploader)
-    assert_raises RuntimeError do
-      storage.retrieve!('identifier')
-    end
+    storage.retrieve!('identifier')
+
+    # assert_raises RuntimeError do
+    #   storage.retrieve!('identifier')
+    # end
   end
 end
