@@ -3,5 +3,6 @@ class AssetManagerWorker < WorkerBase
     file = File.open(file_path)
     Services.asset_manager.create_whitehall_asset(file: file, legacy_url_path: legacy_url_path)
     FileUtils.rm(file)
+    # TODO: Delete the directory here too.
   end
 end
