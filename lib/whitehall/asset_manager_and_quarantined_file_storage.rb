@@ -29,5 +29,9 @@ class Whitehall::AssetManagerAndQuarantinedFileStorage < CarrierWave::Storage::A
     def content_type
       @sanitized_file.content_type
     end
+
+    def filename
+      @sanitized_file.filename
+    end
   end
 end
