@@ -1,7 +1,7 @@
 class LogoUploader < WhitehallUploader
   include CarrierWave::MiniMagick
 
-  storage :asset_manager#_and_file_system
+  storage :asset_manager_and_quarantined_file_storage
 
   def extension_whitelist
     %w(jpg jpeg gif png)
