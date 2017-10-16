@@ -39,7 +39,7 @@ class Whitehall::AssetManagerStorage < CarrierWave::Storage::Abstract
       asset_url = asset.to_hash['id']
       asset_id = asset_url[/\/assets\/(.*)/, 1]
       Services.asset_manager.delete_asset(asset_id)
-    rescue RestClient::NotFound
+    rescue GdsApi::HTTPNotFound
       # TODO: Handle assets that aren't found in asset manager (i.e. they return a 404)
     end
 
